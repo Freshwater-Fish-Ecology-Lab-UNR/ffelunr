@@ -1,0 +1,180 @@
+---
+output:
+  html_document:
+    theme: yeti
+---
+
+<style type="text/css">
+body{ /* Normal  */ font-size: 16px; font-family: Arial; color:black;  line-height: 1.5;}
+td {  /* Table  */ font-size: 8px;}
+h1.title {font-size: 38px; color: DarkRed;}
+h1 { /* Header 1 */ font-size: 28px; color: Black;}
+h2 { /* Header 2 */ font-size: 22px; color: Black;}
+h3 { /* Header 3 */ font-size: 18px; color: Black; font-weight: bold;}
+code.r{ /* Code block */ font-size: 12px;}
+pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
+.navbar {
+  display: flex; /* Align items horizontally */
+  justify-content: space-between; /* Space out items */
+  align-items: start; /* Top vertical end */
+  #align-items: center; /* Center items vertically */
+  #align-items: flex-end; /* Lower vertical end */
+  height: 150px; /* Set specific height for navbar, adjust as needed */
+  background-color: #000033; /* Dark blue color */
+}
+.navbar-nav a {
+  text-decoration: none; /* Optional: remove underline from links */
+  color: black; /* Optional: set link color */
+}
+.navbar-nav li {
+  padding: 10px 0 0 0; /* Add padding to top of menu items */
+  padding: 0 10px; /* Optional: add padding to menu items */
+}
+/* Ensure the parent container is relatively positioned */
+.parent-container {
+  position: relative;
+}
+.footer {
+  background-color: #000033; /* Dark blue color */
+  color: white;
+  text-align: center;
+  padding: 10px 0; /* Adjust padding as needed */
+  width: 100%; /* Ensure the footer spans the full width */
+  position: fixed; /* Fixed position */
+  bottom: 0; /* Stick to the bottom of the viewport */
+  left: 0; /* Align the footer to the left edge */
+  box-sizing: border-box; /* Include padding in the element's total width and height */
+  z-index: 1000; /* Ensure it stays on top of other content */
+}
+.footer a {
+  color: white; /* Footer links color */
+  text-decoration: none; /* Remove underline from links */
+}
+.footer a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+.single-spaced {
+  line-height: 1.5; /* Set line-height to 1 for single spacing */
+}
+}</style>
+
+<img src="images/sierra_lake.jpg" style="width:100%; border:0px solid" align="center">
+
+The **Freshwater Fish Ecology Lab** is a aquatic science research laboratory in the [Nevada Cooperative Fish and Wildlife Research Unit](https://www.unr.edu/nvcfwru) at the [University of Nevada, Reno](https://www.unr.edu/nres). 
+
+Our mission is to conduct applied research to guide conservation and
+management of fisheries and aquatic ecosystems.
+
+On this site, you can learn about [who we are](members.html), our [research interests](research.html) and [publications ](publications.html). We will post advertisements for graduate student and scientist opportunities [here](prospective_students.html) as well.
+
+Please reach out if you are interested in joining our team or collaborating with us!
+<br>
+<br>
+<img src="images/FullLogo_Transparent_NoBuffer.png" style="width:20%; border:0px solid; margin-right: 50px" align="right">
+<div class="single-spaced">
+**Contact information:**<br>
+[Dr. Jeff Falke](https://www.unr.edu/nvcfwru/falke-jeff)<br>
+Unit Leader<br>
+U.S. Geological Survey, [Nevada Cooperative Fish and Wildlife Research Unit](https://www.unr.edu/nvcfwru)<br>
+University of Nevada, Reno<br>
+Office: 100D Knudtsen Resource Center, 1000 Valley Road, Reno, NV 89512<br>
+Mail: 1664 N. Virginia Street, Mail Stop 405, Reno, NV 89557<br>
+Email: [jfalke@unr.edu](mailto:jfalke@unr.edu)<br>
+</div>
+<br>
+
+```{r pictures, echo=FALSE}
+library(slickR)
+paths <- c(
+  
+  "images/IMG_0824.jpeg",
+  "images/IMG_0939.jpeg",
+  "images/IMG_2398.jpeg",
+
+  "images/3796dce3-e4d4-4ad6-b531-c8045564ea9d_orig.jpg",
+  "images/A_Martin_snorkel_monument_ck_AKCFWRU.JPG",
+  "images/B_Huntsman_Chena_R_outreach_AKCFWRU.jpg",
+
+  "images/B_Huntsman_Chena_River_habitat_AKCFWRU.JPG",
+  "images/C_Clawson_ChandalarRiver.JPG",
+  "images/chase pike.jpg",
+
+  "images/chris_s.jpg",
+  "images/claire.jpg",
+  "images/condor_canyon.jpeg",
+
+  "images/crystal_spr.jpeg",
+  "images/Deanna measuring flow.jpg",
+  "images/Elizabeth_grayling.jpg",
+    
+  "images/Image 2.jpg",
+  "images/Image 4.jpg",
+  "images/IMG_0753.jpeg",
+
+  "images/IMG_0824.jpeg",
+  "images/IMG_0939.jpeg",
+  "images/IMG_1323.jpeg",
+
+  "images/IMG_1621.jpeg",
+  "images/IMG_1913.jpeg",
+  "images/IMG_2392.jpeg",
+
+  "images/IMG_7033.jpeg",
+  "images/IMG_7394.JPG",
+  "images/JR-17-5351-36.jpg"
+  # 
+  # "images/JR-17-5351-149.jpg",
+  # "images/K_Neuneker_Stikine_R_netting_AKCFWRU.JPG",
+  # "images/LT_otolith.jpg",
+  # 
+  # "images/M_Sparks_Iliamna_Lake_sockeye_eggtake_AKCFWRU.JPG",
+  # "images/mvw_dry.jpeg",
+  # "images/Wildfire_pic.jpg",
+  # 
+  # "images/willow_ck_AKCFWRU.jpg",
+  # "images/willow_ck_habitat_AKCFWRU.JPG",
+  # "images/willow_ck_rainbow_tagging_AKCFWRU.jpg"
+  
+  )
+
+slickR(obj=paths, height=175) + 
+  settings(dots = TRUE, slidesToScroll=3, slidesToShow=3, 
+           autoplay=TRUE, autoplaySpeed=5000,
+           responsive = V8::JS(
+  "[
+   {
+    breakpoint: 850,
+  settings: {
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    infinite: true,
+    dots: true
+   }
+  },
+  {
+   breakpoint: 700,
+    settings: {
+    slidesToShow: 2,
+    slidesToScroll: 2,
+    infinite: true,
+    dots: true
+  }
+ },
+ {
+    breakpoint: 480,
+    settings: {
+    slidesToShow: 1,
+     slidesToScroll: 1,
+     infinite: true,
+     dots: true
+    }
+   }
+  ]"
+   ))
+```
+
+<!-- Simple Dark Blue Footer -->
+<div class="footer">
+  <p> Copyright &copy; Jeff Falke, 2024--present. All rights reserved.</p>
+  </p>
+</div>

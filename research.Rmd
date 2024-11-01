@@ -1,0 +1,83 @@
+---
+output:
+  html_document:
+    theme: yeti
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+<style type="text/css">
+body{ /* Normal  */ font-size: 16px; font-family: Arial; color:black;  line-height: 1.5;}
+td {  /* Table  */ font-size: 8px;}
+h1.title {font-size: 38px; color: DarkRed;}
+h1 { /* Header 1 */ font-size: 28px; color: Black;}
+h2 { /* Header 2 */ font-size: 22px; color: Black;}
+h3 { /* Header 3 */ font-size: 18px; color: Black; font-weight: bold;}
+code.r{ /* Code block */ font-size: 12px;}
+pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
+.navbar {
+  display: flex; /* Align items horizontally */
+  justify-content: space-between; /* Space out items */
+  align-items: start; /* Top vertical end */
+  #align-items: center; /* Center items vertically */
+  #align-items: flex-end; /* Lower vertical end */
+  height: 150px; /* Set specific height for navbar, adjust as needed */
+  background-color: #000033; /* Dark blue color */
+}
+.navbar-nav a {
+  text-decoration: none; /* Optional: remove underline from links */
+  color: black; /* Optional: set link color */
+}
+.navbar-nav li {
+  padding: 10px 0 0 0; /* Add padding to top of menu items */
+  padding: 0 10px; /* Optional: add padding to menu items */
+}
+/* Ensure the parent container is relatively positioned */
+.parent-container {
+  position: relative;
+}
+.footer {
+  background-color: #000033; /* Dark blue color */
+  color: white;
+  text-align: center;
+  padding: 10px 0; /* Adjust padding as needed */
+  width: 100%; /* Ensure the footer spans the full width */
+  position: fixed; /* Fixed position */
+  bottom: 0; /* Stick to the bottom of the viewport */
+  left: 0; /* Align the footer to the left edge */
+  box-sizing: border-box; /* Include padding in the element's total width and height */
+  z-index: 1000; /* Ensure it stays on top of other content */
+}
+.footer a {
+  color: white; /* Footer links color */
+  text-decoration: none; /* Remove underline from links */
+}
+.footer a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+}</style>
+
+<img src="images/brock_hab.jpg" style="width:30%; border:2px solid; margin-left: 15px;margin-top:15px" align="right">
+
+The applied ecological research program of the **Freshwater Fish Ecology Laboratory**  focuses on the impacts of environmental stressors such as climate and land use change on fish population and assemblage dynamics to address aquatic conservation and management issues - primarily those identified by our cooperators as integral to carrying out the mission of their respective agencies. This work is complex, broad in scope, and has been conducted across a variety of freshwater and marine ecosystems in Alaska, the Pacific Northwest, the Great Plains, Nevada, and elsewhere. Projects are often multidisciplinary, include retrospective and forecasting analyses, and are carried out multiple spatial and temporal scales. Our diverse research program can be broadly categorized into three areas:
+
+**Landscape and spatial ecology of aquatic ecosystems**: A spatially continuous perspective of aquatic ecosystems is needed to better understand the interactions between organisms and their environments. A portion of our research has focused on spatially-explicit prediction of the distribution of fish species and environmental stressors across broad landscapes. Recent applied efforts include mapping habitat suitability for life stages of species of concern across broad domains in the context of groundwater pumping, climate change, wildfire, and species invasions. Most individual projects include a combination of field and laboratory data collection and modeling. Examples of commonly used quantitative methods include: GIS, spatial statistical and mixed models, multi-state occupancy estimation, intrinsic potential/resource selection habitat models, bioenergetics modeling, and Bayesian networks.
+
+**Climate and land-use impacts on aquatic species and habitats**: Climate variability is the overarching control on freshwater processes (e.g., stream flow and temperature), and sets the context for the distribution and abundance of aquatic species in riverscapes. We have contributed to recent meta-analyses of documented and projected climate impacts on inland fishes in North America and globally, synthesis to support the American Fisheries Society climate policy, and development of the “resist-accept-direct (RAD)” framework to assist decision makers make informed, purposeful, and strategic choices under ecosystem change; the approach has been adopted by DOI agencies across the country. These studies have answered important questions and captured the broad scope and complexity of this issue, and identified key data gaps.
+
+**Cooperator-driven science for fisheries management and conservation**: Large data gaps exist for even basic information such as the distribution of, and interactions among, aquatic species across the Western U.S.; these gaps hinder management and conservation of commercially, culturally, and ecologically important fish species. An important part of our role is to be responsive to the research needs of our cooperators and a considerable portion of our research program has been to answer cooperator-defined questions regarding the biology and ecology of managed fish populations. Examples of methods used include biochronology, radio telemetry, resource selection functions, remotely sensing, histology, bioelectrical impedance analysis, genomic techniques, Bayesian networks, and laboratory flume experiments. The vast majority (>90%) of our labs conference presentations and peer-reviewed papers include agency scientists and managers as co-authors.
+
+**Publication philosophy**: Our research goal is simple, to conduct the best research to date in the field, aimed at application by local and regional agencies that manage fishes and freshwater habitats, and to publish it in the best journals. As such, all graduate students and post-docs in the lab are expected to publish their research in peer-reviewed journals. We believe there is little point in doing research unless that work is published. Publishing your research has several functions: 1) it is an important learning experience for you that is best navigated with the assistance of an experienced coauthor (Jeff), 2) it serves as an unbiased, third party endorsement of the quality and validity of the work, and 3) it makes the findings of the research project readily available to a global audience. Further, peer-reviewed publications are an important indicator to prospective employers of your scientific capabilities and diligence.
+
+
+<br>
+
+<!-- Simple Dark Blue Footer -->
+<div class="footer">
+  <p> Copyright &copy; Jeff Falke, 2024--present. All rights reserved.</p>
+  </p>
+</div>

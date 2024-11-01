@@ -1,0 +1,29 @@
+name: "Freshwater Fish Ecology Lab"
+output_dir: "."
+navbar:
+  title: '<img src="images/FullLogo_circle_clip_blue.jpg" alt="Lab Logo" style="height: 125px; display: block; margin: 0 auto;">'
+  href: index.html
+  left:
+    - text: "People"
+      menu:
+      - text: "Current Members"
+        href: members.html
+      - text: "Where Are They Now?"
+        href: wherearetheynow.html
+    - text: "Research"
+      menu:
+      - text: "Overview"
+        href: research.html
+      - text: "Current Projects"
+        href: currentres.html
+      - text: "Past Projects"
+        href: pastprojects.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Prospective Students"
+      href: prospective_students.html
+
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

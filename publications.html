@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>publications.knit</title>
+
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img src="images/FullLogo_circle_clip_blue.jpg" alt="Lab Logo" style="height: 125px; display: block; margin: 0 auto;"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    People
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="members.html">Current Members</a>
+    </li>
+    <li>
+      <a href="wherearetheynow.html">Where Are They Now?</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Research
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="research.html">Overview</a>
+    </li>
+    <li>
+      <a href="currentres.html">Current Projects</a>
+    </li>
+    <li>
+      <a href="pastprojects.html">Past Projects</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="prospective_students.html">Prospective Students</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<style type="text/css">
+body{ /* Normal  */ font-size: 16px; font-family: Arial; color:black;  line-height: 1.5;}
+td {  /* Table  */ font-size: 8px;}
+h1.title {font-size: 38px; color: DarkRed;}
+h1 { /* Header 1 */ font-size: 28px; color: Black;}
+h2 { /* Header 2 */ font-size: 22px; color: Black;}
+h3 { /* Header 3 */ font-size: 18px; color: Black; font-weight: bold;}
+code.r{ /* Code block */ font-size: 12px;}
+pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
+.navbar {
+  display: flex; /* Align items horizontally */
+  justify-content: space-between; /* Space out items */
+  align-items: start; /* Top vertical end */
+  #align-items: center; /* Center items vertically */
+  #align-items: flex-end; /* Lower vertical end */
+  height: 150px; /* Set specific height for navbar, adjust as needed */
+  background-color: #000033; /* Dark blue color */
+}
+.navbar-nav a {
+  text-decoration: none; /* Optional: remove underline from links */
+  color: black; /* Optional: set link color */
+}
+.navbar-nav li {
+  padding: 10px 0 0 0; /* Add padding to top of menu items */
+  padding: 0 10px; /* Optional: add padding to menu items */
+}
+/* Ensure the parent container is relatively positioned */
+.parent-container {
+  position: relative;
+}
+.footer {
+  background-color: #000033; /* Dark blue color */
+  color: white;
+  text-align: center;
+  padding: 10px 0; /* Adjust padding as needed */
+  width: 100%; /* Ensure the footer spans the full width */
+  position: fixed; /* Fixed position */
+  bottom: 0; /* Stick to the bottom of the viewport */
+  left: 0; /* Align the footer to the left edge */
+  box-sizing: border-box; /* Include padding in the element's total width and height */
+  z-index: 1000; /* Ensure it stays on top of other content */
+}
+.footer a {
+  color: white; /* Footer links color */
+  text-decoration: none; /* Remove underline from links */
+}
+.footer a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+}</style>
+Below are peer-reviewed publications, data releases, and code releases
+authored by Jeff Falke and Freshwater Fish Ecology Lab members
+(<strong>in bold</strong>) ordered by year. Reprints are available by
+request.
+<hr>
+<div id="section" class="section level3">
+<h3><u>2024</u></h3>
+<p><img src="images/fwb_cover.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Samuel, W. T.</strong>, L. E. Yancy, <strong>E. G.
+Hinkle</strong>, and <strong>J. A. Falke</strong>. 2024. Validating
+morphometrics as a nonlethal tool to determine Arctic Grayling sex.
+<em>North American Journal of Fisheries Management</em> 44:70-78. <a
+href="https://doi.org/10.1002/nafm.10956">DOI</a></p>
+<p><strong>Fitzgerald, K. A.</strong>, J. R. Bellmore, J. B. Fellman, M.
+L. H. Cheng, N. Boyles-Muehleck, <strong>C. E. Delbecq</strong>, and
+<strong>J. A. Falke</strong>. 2024. Juvenile coho salmon growth
+differences track biennial pink salmon spawning patterns. <em>Freshwater
+Biology</em>. <a href="https://doi.org/10.1111/fwb.14328">DOI</a></p>
+<p><strong>Delbecq, C.</strong>, J. B. Fellman, J. R. Bellmore, E. J.
+Whitney, E. Hood, <strong>K. Fitzgerald</strong>, and <strong>J. A.
+Falke</strong>. 2024. Seasonal patterns in riverine carbon form and
+export from a temperate forested watershed in Southeast Alaska.
+<em>Biogeochemistry</em>. <a
+href="https://doi.org/10.1007/s10533-024-01175-7">DOI</a></p>
+<p><strong>Cathcart, C. N.</strong>, <strong>J. A. Falke</strong>, J.
+Fox, R. Henszey, and K. Lininger. 2024. Multiscale processes drive
+formation of logjam habitats and use by juvenile Chinook salmon across a
+boreal stream network in Alaska. <em>River Research and
+Applications</em>. <a
+href="https://doi.org/10.1002/rra.4387">DOI</a></p>
+<p><strong>Fitzgerald, K.A.</strong>, and <strong>Falke, J.</strong>
+2024. Juvenile coho salmon growth differences track biennial pink salmon
+spawning patterns: U.S. Geological Survey data release, ScienceBase <a
+href="https://doi.org/10.5066/P1PWJM7G">DOI</a></p>
+<p><strong>Falke, J.A.</strong> and <strong>J.D. Paul</strong>. 2024.
+Spatial and tabular datasets supporting the “Freshwater Habitat
+Potential for Chinook Salmon in the Yukon and Kuskokwim River Basins,
+Alaska” Project. U.S. Geological Survey data release, ScienceBase <a
+href="https://doi.org/10.5066/P95AV4JO">DOI</a></p>
+<p><strong>Falke, J.A.</strong>, and <strong>J.D. Paul</strong>. 2024.
+Code to support “Chinook Salmon Freshwater Habitat Potential Modeling
+and Mapping for the Yukon and Kuskokwim River Basins in Alaska”. 2024.
+Version 1.0.0. U.S. Geological Survey software release, GitHub <a
+href="https://doi.org/10.5066/P9R6T032">DOI</a></p>
+<p><strong>Delbecq, C.E.</strong>, <strong>Falke, J.A.</strong>, and
+Whitney, E.J. 2024. Riverine carbon form and flow data from a temperate
+forested watershed in Southeast Alaska (2021). U. S. Geological Survey
+data release, ScienceBase <a
+href="https://doi.org/10.5066/P14IKGTB">DOI</a></p>
+</div>
+<div id="section-1" class="section level3">
+<h3><u>2023</u></h3>
+<p><img src="images/coho_lc.jpg" style="width:30%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Torvinen, E. S.</strong>, <strong>J. A. Falke</strong>, C. D.
+Arp, B. M. Jones, M. S. Whitman, and C. E. Zimmerman. 2023. Lake trout
+(Salvelinus namaycush) otoliths indicate effects of climate and lake
+morphology on growth patterns in Arctic lakes. <em>Ecology of Freshwater
+Fish</em> 32:166-180. <a href="">DOI</a></p>
+<p><strong>Sergeant, C. J.</strong>, J. R. Bellmore, R. A. Bellmore,
+<strong>J. A. Falke</strong>, F. J. Mueter, and P. A. H. Westley. 2023.
+Hypoxia vulnerability in the salmon watersheds of Southeast Alaska. Sci
+Total Environ 896:165247. <a href="">DOI</a></p>
+<p><strong>Sergeant, C. J.</strong> and <strong>Falke, J.</strong> 2023.
+Data describing “Hypoxia Vulnerability in the Salmon Watersheds of
+Southeast Alaska”. U.S. Geological Survey data release, ScienceBase <a
+href="https://doi.org/10.5066/P9VAKF20">DOI</a></p>
+<p>Meyer, B. E., M. S. Wipfli, E. R. Schoen, D. J. Rinella, and
+<strong>J. A. Falke</strong>. 2023. Landscape characteristics influence
+projected growth rates of stream‐resident juvenile salmon in the face of
+climate change in the Kenai River watershed, south‐central Alaska.
+<em>Transactions of the American Fisheries Society</em> 152:169-186. <a
+href="">DOI</a></p>
+<p>Leppi, J. C., D. J. Rinella, M. S. Wipfli, A. K. Liljedahl, A. C.
+Seitz, and <strong>J. A. Falke</strong>. 2023. Climate Change Risks to
+Freshwater Subsistence Fisheries in Arctic Alaska: Insights and
+Uncertainty from Broad Whitefish. <em>Fisheries</em> 48:295-306. <a
+href="">DOI</a></p>
+<p><strong>Fitzgerald, K. A.</strong>, J. R. Bellmore, J. B. Fellman, M.
+L. H. Cheng, **C. E. Delbecq*,<strong> and </strong>J. A. Falke**. 2023.
+Stream hydrology and a pulse subsidy shape patterns of fish foraging.
+<em>Journal of Animal Ecology</em> 92:2386-2398. <a href="">DOI</a></p>
+<p><strong>Fitzgerald, K.A</strong>, and <strong>Falke</strong>, J.
+2023. Data to support “Stream hydrology and a pulse subsidy shape
+patterns of fish foraging”. U.S. Geological Survey data release,
+ScienceBase <a href="https://doi.org/10.5066/P9EEEDB1">DOI</a></p>
+<p>Campbell, M. A., M. C. Hale, <strong>C. S. Jalbert</strong>, K.
+Dunker, A. J. Sepulveda, J. A. Lopez, <strong>J. A. Falke</strong>, and
+P. A. H. Westley. 2023. Genomics reveal the origins and current
+structure of a genetically depauperate freshwater species in its
+introduced Alaskan range. <em>Evolutionary Applications</em>
+16:1119-1134. <a href="">DOI</a></p>
+<p>Bellmore, J. R., <strong>C. J. Sergeant</strong>, R. A. Bellmore,
+<strong>J. A. Falke</strong>, and J. B. Fellman. 2023. Modeling coho
+salmon (Oncorhynchus kisutch) population response to streamflow and
+water temperature extremes. <em>Canadian Journal of Fisheries and
+Aquatic Sciences</em> 80:243-260. <a href="">DOI</a></p>
+</div>
+<div id="section-2" class="section level3">
+<h3><u>2022</u></h3>
+<p><img src="images/chum_temp.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p>Walther, E. J., M. S. Zimmerman, <strong>J. A. Falke</strong>, and P.
+A. H. Westley. 2022. Species distributions and the recognition of risk
+in restoration planning: A case study of salmonid fishes. <em>Ecological
+Applications</em> 32:e2701. <a
+href="https://doi.org/10.1002/eap.2701">DOI</a></p>
+<p>Lynch, A. J., B. J. E. Myers, J. P. Wong, C. Chu, R. W. Tingley,
+<strong>J. A. Falke</strong>, T. J. Kwak, C. P. Paukert, and T. J.
+Krabbenhoft. 2022. Reducing uncertainty in climate change responses of
+inland fishes: A decision‐path approach. <em>Conservation Science and
+Practice</em> 4. <a
+href="https://doi.org/10.1111/csp2.12724">DOI</a></p>
+<p>Leppi, J. C., <strong>J. A. Falke</strong>, D. J. Rinella, M. S.
+Wipfli, A. C. Seitz, and M. S. Whitman. 2022. Landscape geomorphology
+and local‐riverine features influence Broad Whitefish (Coregonus nasus)
+spawning habitat suitability in Arctic Alaska. <em>Ecology of Freshwater
+Fish</em> 31:622-639. <a
+href="https://doi.org/10.1111/eff.12657">DOI</a></p>
+<p><strong>Arthur, D.E.</strong>, <strong>J.A. Falke</strong>, B.J.
+Blain-Roth, and T.M. Sutton. 2022. Alaskan Yelloweye Rockfish Fecundity
+Revealed through an Automated Egg Count and Digital Imagery Method.
+<em>North American Journal of Fisheries Management</em> 42:828-838. <a
+href="https://doi.org/10.1002/nafm.10768">DOI</a></p>
+<p>Von Biela, V., <strong>C. J. Sergeant</strong>, M. Carey, Z. Liller,
+C. Russell, Westley, C. Zimmerman. 2022. Premature mortality Alaska’s
+Pacific Salmon during record heat and drought in 2019.
+<em>Fisheries</em> 47:157-168. <a
+href="https://doi.org/10.1002/fsh.10705">DOI</a></p>
+<p><strong>Clawson, C.M.</strong>, <strong>Falke, J.A.</strong>, Rose,
+J., Prakash, A., Martin, A.E., and L.L. Bailey. 2022. High-resolution
+remote sensing and multistate occupancy estimation identify drivers of
+spawning site selection in fall chum salmon (Oncorhynchus keta) across a
+sub-Arctic riverscape. <em>Canadian Journal of Fisheries and Aquatic
+Sciences</em> 79:380-394. <a
+href="https://doi.org/10.1139/cjfas-2021-0013">DOI</a></p>
+</div>
+<div id="section-3" class="section level3">
+<h3><u>2021</u></h3>
+<p><img src="images/rad.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p>Williamson, E. R., and <strong>C. J. Sergeant</strong>. 2021.
+Independent validation of downscaled climate estimates from a coastal
+Alaska watershed using local historical weather journals. <em>PeerJ</em>
+9:e12055. <a href="https://doi.org/10.7717/peerj.12055">DOI</a></p>
+<p><strong>Hinkle, E.</strong>, and Ford, N. B. 2021. Reproductive
+traits of North American Cajun Dwarf Crayfish (Cambarellus shufeldtii)
+from the Neches River National Wildlife Refuge. <em>The Southwestern
+Naturalist</em>, 65:56-60. <a
+href="https://doi.org/10.1894/0038-4909-65.1.56">DOI</a></p>
+<p>Paukert, C.P., Olden, J.D., Brashears, D., Chambers, R.C., Chu, C.,
+Daly, M., Dibble, K. <strong>Falke, J.</strong>, Isaak, D., Jacobson,
+P., Jensen, O.P., Lynch, A.J., and D. Munroe. 2021. Climate change
+effects on North American fish and fisheries: a summary of the science
+and moving forward with adaptation. <em>Fisheries</em> 46:449-464. <a
+href="https://doi.org/10.1002/fsh.10668">DOI</a></p>
+<p>Stratton, M.E., Finkle, H., <strong>Falke, J.A.</strong>, and P.A.H.
+Westley. 2021. Assessing potential stock structure of adult Coho Salmon
+(Oncorhynchus kisutch) in a small Alaska watershed: Quantifying run
+timing, spawning locations, and holding areas with radio telemetry.
+<em>North American Journal of Fisheries Management</em> 41:1423-1435. <a
+href="https://doi.org/10.1002/nafm.10658">DOI</a></p>
+<p><strong>Jalbert, C.</strong>, <strong>Falke J.A.</strong>, Lopez,
+J.A., Dunker, K.J., Sepulveda, A.J., and P.A.H. Westley. 2021.
+Vulnerability of Pacific salmon to invasion of northern pike (Esox
+lucius) in Southcentral Alaska. <em>PLoS ONE</em> 16(7): e0254097. <a
+href="https://doi.org/10.1371/journal.pone.0254097">DOI</a></p>
+<p>Borg, B.L., Arthur, S.M., <strong>Falke, J.A.</strong>, and L.R.
+Prugh. 2021. Spatially explicit dynamics of wolf sightings in Denali
+National Park. <em>Arctic</em> 74:51-66. <a
+href="https://doi.org/10.14430/arctic72208">DOI</a></p>
+<p>Thompson, L. M., A. J. Lynch, E. A. Beever, A. C. Engman, <strong>J.
+A. Falke</strong>, S. T. Jackson, T. J. Krabbenhoft, D. J. Lawrence, D.
+Limpinsel, R. T. Magill, T. A. Melvin, J. M. Morton, R. A. Newman, J.
+Peterson, M. T. Porath, F. J. Rahel, S. A. Sethi, J. L. Wilkening. 2021.
+When is resistance futile? Resisting, accepting, or directing ecosystem
+transformation. <em>Fisheries</em> 46:8-21. <a
+href="https://doi.org/10.1002/fsh.10506%202020">DOI</a></p>
+</div>
+<div id="section-4" class="section level3">
+<h3><u>2020</u></h3>
+<p><img src="images/goa_class.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Sergeant, C.J.</strong>, <strong>Falke, J.A.</strong>,
+Bellmore, R.A., Bellmore, J.R., and R.L. Crumley. 2020. A classification
+of streamflow patterns across the coastal Gulf of Alaska. <em>Water
+Resources Research</em> 56:e2019WR026127. <a
+href="https://doi.org/10.1029/2019WR026127">DOI</a></p>
+<p><strong>Shaftel, R.</strong>, Mauger, S., <strong>Falke, J.</strong>,
+Rinella, D., Davis, J., and L. Jones. 2020. Thermal diversity of salmon
+streams in the Matanuska-Susitna Basin, Alaska. <em>Journal of the
+American Water Resources Association</em> 56:630-646. <a
+href="https://doi.org/10.1111/1752-1688.12839">DOI</a></p>
+<p><strong>Courtney, K.R.</strong>, <strong>Falke, J.A.</strong>, Cox,
+M.K., and J. Nichols. 2020. Energetic status of Alaskan Chinook Salmon:
+interpopulation comparisons and predictive modeling using bioelectrical
+impedance analysis. <em>North American Journal of Fisheries
+Management</em> 40:209-224. <a
+href="https://doi.org/10.1002/nafm.10398">DOI</a></p>
+<p>Krabbenhoft, T., Myers, B., Wong, J., Chu, C., Tingley, R.,
+<strong>Falke, J.</strong>, Kwak, T., Paukert, C., and A. Lynch. 2020.
+FiCli, the Fish and Climate Change Database, informs climate adaptation
+and management for freshwater fishes. <em>Scientific Data</em> 7:124. <a
+href="https://doi.org/10.1038/s41597-020-0465-z">DOI</a></p>
+</div>
+<div id="section-5" class="section level3">
+<h3><u>2019</u></h3>
+<p><img src="images/temporary_habs.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Falke, J.A.</strong>, <strong>Bailey, L.T.</strong>,
+<strong>Fraley, K.M.</strong>, <strong>Lunde, M.J.</strong>, and A.D.
+Gryska. 2019. Energetic status and bioelectrical impedance modeling of
+Arctic grayling Thymallus arcticus in interior Alaska rivers.
+<em>Environmental Biology of Fishes</em> 102:1337-1349. <a
+href="https://doi.org/10.1007/s10641-019-00910-6">DOI</a></p>
+<p>Heim, K.C., McMahon, T.E., Calle, L., Wipfli, M.S., and <strong>J.A.
+Falke</strong>. 2019. A general model of temporary aquatic habitat use:
+Water phenology as a life history filter. <em>Fish and Fisheries</em>
+20:802-816. <a href="https://doi.org/10.1111/faf.12386">DOI</a></p>
+<p><strong>Falke, J.A.</strong>, <strong>Huntsman, B.M.</strong>, and
+E.R. Schoen. 2019. Climatic variation drives growth potential of
+juvenile Chinook Salmon along a subarctic boreal riverscape. Pages 57-82
+in R.M. Hughes and D. Infante, editors. Advances in understanding
+landscape influences on freshwater habitats and biological assemblages.
+American Fisheries Society, Symposium 90, Bethesda, Maryland.</p>
+<p><strong>Huntsman, B.M.</strong> and <strong>J. A. Falke</strong>.
+2019. Lateral connectivity and growth conditions influence juvenile
+Chinook salmon habitat selection within a sub-Arctic riverscape.
+<em>Freshwater Biology</em> 64:443-446. <a
+href="https://doi.org/10.1111/fwb.13232">DOI</a></p>
+<p><strong>Sparks, M.M.</strong>, <strong>Falke, J.A.</strong>, Westley,
+P.A.H., Adkison, M.D., Bartz, K., Quinn, T.P., Schindler, D.E., and D.
+Young. 2019. Influences of spawning timing, water temperature, and
+climatic warming on early life history phenology in western Alaska
+sockeye salmon. <em>Canadian Journal of Fisheries and Aquatic
+Sciences</em> 76:123-135. <a
+href="https://doi.org/10.1139/cjfas-2017-0468">DOI</a></p>
+</div>
+<div id="section-6" class="section level3">
+<h3><u>2018</u></h3>
+<p>Tibbles, M., <strong>Falke, J.A.</strong>, Mahoney, A.R., Robards,
+M.D., and A.C. Seitz. 2018. An InSAR habitat suitability model to
+identify overwinter conditions for coregonine whitefishes in Arctic
+lagoons. <em>Transactions of the American Fisheries Society</em>
+147:1167-1178.<a href="https://doi.org/10.1002/tafs.10111">DOI</a></p>
+<p><strong>Matter, A.N.</strong>, <strong>Falke, J.A.</strong>, López,
+J.A., and J.W. Savereide. 2018. A rapid assessment method to estimate
+the distribution of juvenile Chinook salmon using eDNA and occupancy
+estimation. <em>North American Journal of Fisheries Management</em>
+38:223-236. <a href="https://doi.org/10.1002/nafm.10014">DOI</a></p>
+<p><strong>Fraley, K.M.</strong>, <strong>Falke, J.A.</strong>, McPhee,
+M.V., and A. Prakash. 2018. Rainbow trout movement behavior and habitat
+occupancy are influenced by sex and Pacific salmon presence in an Alaska
+river system. <em>Canadian Journal of Fisheries and Aquatic
+Sciences</em> 75:525-537. <a
+href="https://doi.org/10.1139/cjfas-2016-0459">DOI</a></p>
+</div>
+<div id="section-7" class="section level3">
+<h3><u>2017</u></h3>
+<p><img src="images/gw.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Sparks, M.M.</strong>, Westley, P.A.H., <strong>Falke,
+J.A.</strong>, and T.P. Quinn. 2017. Thermal adaptation and phenotypic
+plasticity in a warming world: insights from common garden experiments
+on Alaskan sockeye salmon. <em>Global Change Biology</em> 23:5203-5227.
+<a href="https://doi.org/10.1111/gcb.13782">DOI</a></p>
+<p>Perkin, J.S., Gido, K.B., <strong>Falke, J.A.</strong>, Fausch, K.D.,
+Crockett, H., Johnson, E.R., and J. Sanderson. 2017. Groundwater pumping
+shrinks Great Plains stream fish assemblages. <em>Proceedings of the
+National Academy of Sciences</em>. 114:7373-7378. <a
+href="https://doi.org/10.1073/pnas.1618936114">DOI</a></p>
+<p><strong>Huntsman, B.M.</strong>, <strong>Falke, J.A.</strong>,
+Savereide, J.W., and K.E. Bennett. 2017. The role of density-dependent
+and –independent processes in spawning habitat selection by salmon in an
+Arctic boreal stream network. <em>PLoS ONE</em> 12(5): e0177467. <a
+href="https://doi.org/10.1371/journal.pone.0177467">DOI</a></p>
+<p>Myers, B.E., Lynch, A.J., Bunnell, D.B., Chu, C., <strong>Falke,
+J.A.</strong>, Kovach, R.P., Krabbenhoft, T.J., Kwak, T.J., and C.P.
+Paukert. 2017. Global synthesis of the projected and documented effects
+of climate change on inland fishes. <em>Reviews in Fish Biology and
+Fisheries</em> 27:339-361. <a
+href="https://doi.org/10.1007/s11160-017-9476-z">DOI</a></p>
+<p>McGarvey, D. J., <strong>Falke, J. A.</strong>, Li, H. W., and J. L.
+Li. 2017. Fish assemblages. Pages 321-353. In: Methods in Stream
+Ecology, 3rd Edition. Edited by F. R. Hauer and G. A. Lamberti. Academic
+Press. <a href="eBook%20ISBN:%209780124165786">DOI</a></p>
+</div>
+<div id="section-8" class="section level3">
+<h3><u>2016</u></h3>
+<p><img src="images/climNAfish.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Fraley, K. M.</strong>, <strong>Falke, J. A.</strong>,
+Yanusz, R., and S. Ivey. 2016. Seasonal movements and habitat use of
+potamodromous Rainbow Trout across a complex Alaska riverscape.
+<em>Transactions of the American Fisheries Society</em> 145:1077-1092.
+<a href="https://doi.org/10.1080/00028487.2016.1202320">DOI</a></p>
+<p>Lynch, A. J., Myers, B. J. E., Chu, C., Eby, L., <strong>Falke, J.
+A.</strong>, Kovach, R. P., Krabbenhoft, T. J., Kwak, T. J., Lyons, J.,
+Paukery, C. P., Whitney, J., and D. C. Fulton. 2016. Climate change
+effects on North American inland fish populations, assemblages, and
+aquatic communities. <em>Fisheries</em> 41:346-361. <a
+href="https://doi.org/10.1080/03632415.2016.1186016">DOI</a></p>
+<p><strong>Falke, J. A.</strong>, Dunham, J. B., Hockman-Wert, D., and
+R. Pahl. 2016. A simple prioritization tool to diagnose impairment of
+stream temperature for coldwater fishes in the Great Basin. <em>North
+American Journal of Fisheries Management</em> 36:147-160. <a
+href="https://doi.org/10.1080/02755947.2015.1115449">DOI</a></p>
+<p>Flitcroft, R.L., <strong>Falke, J.A.</strong>, Reeves, G.H.,
+Hessburg, P.F., McNyset, K.M., and L.E. Benda. 2016. Wildfire may
+increase habitat quality for spring Chinook salmon in the Wenatchee
+River subbasin, WA, USA. <em>Forest Ecology and Management</em>
+359:126-140. <a
+href="https://doi.org/10.1016/j.foreco.2015.09.049">DOI</a></p>
+</div>
+<div id="section-9" class="section level3">
+<h3><u>2015</u></h3>
+<p>Heim, K. C., Wipfli, M.S., Whitman, M., Arp, C., Adams, J., and
+<strong>J.A. Falke</strong>. 2015. Environmental correlates of Arctic
+grayling seasonal movement on the Arctic Coastal Plain, Alaska.
+<em>Environmental Biology of Fishes</em> 99-49-65.</p>
+<p><strong>Falke, J. A., McNyset</strong>, K. M., Flitcroft, R. M.,
+Dunham, J. B., and G. H. Reeves. 2015. Climate change and vulnerability
+of bull trout (Salvelinus confluentus) in a fire-prone landscape.
+<em>Canadian Journal of Fisheries and Aquatic Sciences</em>
+72:304-318.</p>
+</div>
+<div id="section-10" class="section level3">
+<h3><u>2014</u></h3>
+<p>Sloat, M.R., Fraser, D.J., Dunham, J.B., <strong>Falke,
+J.A.</strong>, Jordan, C.E., McMillan, J.R., and H. Ohms. 2014.
+Ecological and evolutionary patterns of freshwater maturation in Pacific
+and Atlantic salmonines. <em>Reviews in Fish Biology and Fisheries</em>
+24:689-707.</p>
+<p>Isaak, D. J., E. E. Peterson, J. M. Ver Hoef, S. J. Wenger,
+<strong>J. A. Falke</strong>, C. E. Torgersen, C. Sowder, E. A. Steel,
+M. J. Fortin, C. E. Jordan, A. S. Reusch, N. Som, and P. Monestiez.
+2014. Applications of spatial statistical models to stream data.
+<em>WIREs Water</em> <a
+href="https://doi.org/10.1002/wat2.1023">DOI</a></p>
+</div>
+<div id="section-11" class="section level3">
+<h3><u>2013</u></h3>
+<p><img src="images/redds.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Falke, J. A.</strong>, Dunham, J. B., McNyset, K. M., Jordan,
+C. E., and G. H. Reeves. 2013. Habitat complementation, ecological
+neighborhoods, and local factors predict the distribution and abundance
+of spawning steelhead trout (Oncorhynchus mykiss) in a large river
+network. <em>PLoS ONE</em> 8(11):e79232.</p>
+<p>Peterson, E. E., Ver Hoef, J. M., Isaak, D. J., <strong>Falke, J.
+A.</strong>, Fortin, M., Jordan, C. E., McNyset, K., Montestiez, P.,
+Ruesch, A. S., Sengupta, A., Som, N., Steel, A., Theobald, D. M.,
+Torgersen, C. E., and S. J. Wenger. 2013. Modeling dendritic ecological
+networks in space: an integrated network perspective. <em>Ecology
+Letters</em> 16:707-719.</p>
+</div>
+<div id="and-earlier" class="section level3">
+<h3><u>2012 and earlier</u></h3>
+<p><img src="images/metapops.jpg" style="width:20%; border:1px solid; margin-left: 15px" align="right"></p>
+<p><strong>Falke, J. A.</strong>, Bailey, L. L., Bestgen, K.R., and K.
+D. Fausch. 2012. Colonization and extinction in dynamic habitats: an
+occupancy approach for an assemblage of fishes in a Great Plains river.
+<em>Ecology</em> 93:858-867.</p>
+<p><strong>Falke, J. A.</strong>, Fausch, K. D., Magelky, R., Squires,
+A., Durnford, D., Riley, L. and R. Oad. 2011. Ecological futures for
+stream fishes along an intermittent Great Plains riverscape affected by
+drought and groundwater withdrawal for irrigation. <em>Ecohydrology</em>
+4:682-697.</p>
+<p><strong>Falke, J. A.</strong>, Fausch, K. D., Bestgen, K. R., and L.
+L. Bailey. 2010. Spawning phenology and habitat use in a Great Plains
+stream fish assemblage: an occupancy estimation approach. <em>Canadian
+Journal of Fisheries and Aquatic Sciences</em> 67:1942-1956.</p>
+<p><strong>Falke, J. A.</strong>, Bestgen, K. R., and K. D. Fausch.
+2010. Streamflow reductions and habitat drying affect growth, survival,
+and recruitment of brassy minnow Hybognathus hankinsoni across a Great
+Plains riverscape. <em>Transactions of the American Fisheries
+Society</em> 139:1566-1583.</p>
+<p><strong>Falke, J. A.</strong>, and K. D. Fausch. 2010. From
+metapopulations to metacommunities: linking theory with empirical
+observations of the spatial population dynamics of stream fishes. Pages
+207-233. In: Community ecology of stream fishes: concepts, approaches
+and techniques. Edited by K. B. Gido and D. A. Jackson. American
+Fisheries Society Special Publication 73.</p>
+<p>Gido, K. B., Schaefer, J., and <strong>J. A. Falke</strong>. 2009.
+Convergence of fish communities from the littoral zone of reservoirs.
+<em>Freshwater Biology</em> 54:1163-1177.</p>
+<p>Dodds, W. K., Wilson, K. C., Rehmeier, R. L., Knight, G. L., Harper,
+S. W., <strong>Falke, J. A.</strong>, Dalgleish, H. J., and K. N.
+Bertrand. 2008. Comparing ecosystem goods and services provided by
+restored and native lands. <em>BioScience</em> 58:837-846.</p>
+<p><strong>Falke, J. A.</strong>, and K. B. Gido. 2006. Effects of
+reservoir connectivity on stream fish assemblages in the Great Plains.
+<em>Canadian Journal of Fisheries and Aquatic Sciences</em>
+63:480-493.</p>
+<p><strong>Falke, J. A.</strong>, and K. B. Gido. 2006. Spatial effects
+of reservoirs on fish assemblages in Great Plains streams in Kansas,
+U.S.A. <em>River Research and Applications</em> 22:55-68.</p>
+<p>Gido, K. B., <strong>Falke, J. A.</strong>, Oakes, R. M., and K.
+Hase. 2006. Fish-habitat relationships across spatial scales in prairie
+streams. In: Influences of landscape on stream habitat and biological
+communities. Edited by Hughes, R., Seelbach, P., and Wang, L. American
+Fisheries Society Special Publication 48.</p>
+<p>Oakes, R. M., Gido, K. B., <strong>Falke, J. A.</strong>, Olden, J.
+D., and B. L. Brock. 2005. Predictive modeling of stream fish
+assemblages in the Great Plains, USA. <em>Ecology of Freshwater
+Fish</em> 14:361-374.</p>
+<p><br></p>
+<!-- Simple Dark Blue Footer -->
+<div class="footer">
+<p>
+Copyright © Jeff Falke, 2024–present. All rights reserved.
+</p>
+</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
