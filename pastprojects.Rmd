@@ -61,6 +61,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 In the meantime, check out Dr. Falke's USGS projects page [here](https://www1.usgs.gov/coopunits/staff/1227151) - scroll down and click on "Projects"
 
+You can also always check out our [Publications](publications.html) for an account of what we've been up to!
 
 <hr>
 

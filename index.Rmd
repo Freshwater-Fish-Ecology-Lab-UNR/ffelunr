@@ -70,7 +70,7 @@ On this site, you can learn about [who we are](members.html), our [research inte
 Please reach out if you are interested in joining our team or collaborating with us!
 <br>
 <br>
-<img src="images/FullLogo_Transparent_NoBuffer.png" style="width:20%; border:0px solid; margin-right: 50px" align="right">
+
 <div class="single-spaced">
 **Contact information:**<br>
 [Dr. Jeff Falke](https://www.unr.edu/nvcfwru/falke-jeff)<br>
@@ -81,97 +81,10 @@ Office: 100D Knudtsen Resource Center, 1000 Valley Road, Reno, NV 89512<br>
 Mail: 1664 N. Virginia Street, Mail Stop 405, Reno, NV 89557<br>
 Email: [jfalke@unr.edu](mailto:jfalke@unr.edu)<br>
 </div>
+
+<img src="images/logos_combo_spread.jpg" style="width:80%; border:0px solid;margin-left:80px;" align="center">
+
 <br>
-
-```{r pictures, echo=FALSE}
-library(slickR)
-paths <- c(
-  
-  "images/IMG_0824.jpeg",
-  "images/IMG_0939.jpeg",
-  "images/IMG_2398.jpeg",
-
-  "images/3796dce3-e4d4-4ad6-b531-c8045564ea9d_orig.jpg",
-  "images/A_Martin_snorkel_monument_ck_AKCFWRU.JPG",
-  "images/B_Huntsman_Chena_R_outreach_AKCFWRU.jpg",
-
-  "images/B_Huntsman_Chena_River_habitat_AKCFWRU.JPG",
-  "images/C_Clawson_ChandalarRiver.JPG",
-  "images/chase pike.jpg",
-
-  "images/chris_s.jpg",
-  "images/claire.jpg",
-  "images/condor_canyon.jpeg",
-
-  "images/crystal_spr.jpeg",
-  "images/Deanna measuring flow.jpg",
-  "images/Elizabeth_grayling.jpg",
-    
-  "images/Image 2.jpg",
-  "images/Image 4.jpg",
-  "images/IMG_0753.jpeg",
-
-  "images/IMG_0824.jpeg",
-  "images/IMG_0939.jpeg",
-  "images/IMG_1323.jpeg",
-
-  "images/IMG_1621.jpeg",
-  "images/IMG_1913.jpeg",
-  "images/IMG_2392.jpeg",
-
-  "images/IMG_7033.jpeg",
-  "images/IMG_7394.JPG",
-  "images/JR-17-5351-36.jpg"
-  # 
-  # "images/JR-17-5351-149.jpg",
-  # "images/K_Neuneker_Stikine_R_netting_AKCFWRU.JPG",
-  # "images/LT_otolith.jpg",
-  # 
-  # "images/M_Sparks_Iliamna_Lake_sockeye_eggtake_AKCFWRU.JPG",
-  # "images/mvw_dry.jpeg",
-  # "images/Wildfire_pic.jpg",
-  # 
-  # "images/willow_ck_AKCFWRU.jpg",
-  # "images/willow_ck_habitat_AKCFWRU.JPG",
-  # "images/willow_ck_rainbow_tagging_AKCFWRU.jpg"
-  
-  )
-
-slickR(obj=paths, height=175) + 
-  settings(dots = TRUE, slidesToScroll=3, slidesToShow=3, 
-           autoplay=TRUE, autoplaySpeed=5000,
-           responsive = V8::JS(
-  "[
-   {
-    breakpoint: 850,
-  settings: {
-    slidesToShow: 3,
-    slidesToScroll: 3,
-    infinite: true,
-    dots: true
-   }
-  },
-  {
-   breakpoint: 700,
-    settings: {
-    slidesToShow: 2,
-    slidesToScroll: 2,
-    infinite: true,
-    dots: true
-  }
- },
- {
-    breakpoint: 480,
-    settings: {
-    slidesToShow: 1,
-     slidesToScroll: 1,
-     infinite: true,
-     dots: true
-    }
-   }
-  ]"
-   ))
-```
 
 <!-- Simple Dark Blue Footer -->
 <div class="footer">
