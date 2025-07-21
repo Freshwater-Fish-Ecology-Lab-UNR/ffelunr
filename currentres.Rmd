@@ -99,7 +99,9 @@ vegetation health) and hydrology (e.g., stream flows, water temperatures and qua
 
 **Co-PI's: Dr. Jeff Falke & Dr. Brian Folt**
 <br>
-**Post-Doc: TBD**
+**Post-Doc: Dr. Nathan Jackson**
+
+<img src="images/mule_deer.jpg" style="width:40%; border:2px solid; margin-right: 15px" align="left">
 
 Large-scale land-use changes threaten to fragment habitats and disrupt seasonal migration corridors of large ungulates that are important to population growth and persistence. By identifying important habitats and migration corridors for ungulate populations in Nevada, land-use planning might accommodate requirements for ungulates in addition to other multiple uses on landscapes. To this end, we are participating in a large-scale research project that aims to identify important habitats and migration corridors for ungulate populations across Nevada. We are collaborating with **Nevada Department of Wildlife** to analyze existing GPS-collar data describing seasonal movement patterns of Mule Deer, Pronghorn, and Elk and provide maps estimating seasonal ranges and migration corridors for different populations across the state. Land-use planning decisions across Nevada could benefit from the resulting spatial information describing key habitats and migration corridors for ungulates in the state, potentially to be used as exclusion criteria. Additionally, we will produce a synthetic analysis of all ungulate migration corridors in the state and work with the state to develop a decision-support analysis at a large scale, given their needs.
 
