@@ -57,6 +57,12 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 Below are peer-reviewed publications, data releases, and code releases authored by Jeff Falke and Freshwater Fish Ecology Lab members (**in bold**) ordered by year. Reprints are available by request.
 <hr>
+### <u>2025</u>
+
+<img src="images/strohm.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
+<br>
+**Strohm, D.D.**, **Falke, J.A.**, **Sergeant, C.J.**, and **J.D. Paul**. 2025. Streamflow regime characterization in the changing boreal ecosystem: wildfire impacts from stream-to-regional scales. *Science of the Total Environment* 991 (2025) 179770 [DOI](https://doi.org/10.1016/j.scitotenv.2025.179770)
+
 ### <u>2024</u>
 
 <img src="images/fwb_cover.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
