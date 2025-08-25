@@ -57,7 +57,14 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 
 ### [**FFEL Alumni & Where are they now...**]{.ul}
+<br>
 
+<img src="images/Elizabeth_grayling.jpg" style="width:10%; border:2px solid; margin-right: 20px" align="left">
+
+**Dr. Elizabeth Hinkle** (PhD 2025) Post-fire riverscapes: exploring the ecological and behavioral responses of stream communities to wildfire in boreal streams. Current position:
+
+<br>
+<br>
 <br>
 
 <img src="images/samuel-will.jpg" style="width:10%; border:2px solid; margin-right: 20px" align="left">
