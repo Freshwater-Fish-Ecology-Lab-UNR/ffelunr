@@ -66,15 +66,6 @@ Jeff is originally from Blue Springs, MO. He graduated with a BS in Fisheries an
 
 We continue to build out the lab and are hiring graduate students and scientists to help with projects as they emerge. Check out funded student and post-doc opportunities [here](prospective_students.html)!
 <hr>
-### **Staff**
-
-**Mark Kolwyck, Freshwater Fisheries Specialist**
-<br>
-**Brooke Goins, Freshwater Fisheries Technician**
-<br>
-**Tanner Morgan, Freshwater Fisheries Technician**
-
-<hr>
 ### **Post-Doctoral Scientists**
 
 <img src="images/nathan-jackson.JPG" style="width:30%; border:2px solid; margin-right: 20px" align="left">
@@ -95,9 +86,27 @@ We continue to build out the lab and are hiring graduate students and scientists
 
 <hr>
 
-<img src="images/becky.jpg" style="width:20%; border:2px solid; margin-right: 20px" align="left">
+<img src="images/becky.jpg" style="width:15%; border:2px solid; margin-right: 20px" align="left">
 
 **Becky Shaftel, PhD Candidate, Fisheries (UAF)** grew up in Anchorage and has been working as a research scientist at the Alaska Center for Conservation Science at UAA since completing her Masters degree in 2010. She received a B.S. in Earth Systems from Stanford University and a M.S. in Biology from Baylor University. Becky started her PhD in the Freshwater Fish Ecology Lab in fall 2021 and will be working to develop models and tools that link Alaska’s changing climate to freshwater habitats that support salmon. Stream temperature optima vary across salmon species and life stages, and may vary across populations, which requires a flexible approach that can capture the range of current and future thermal conditions they may experience. Becky plans to utilize advancements in geospatial stream networks and climate science to model shifting thermal regimes that can be used to understand impacts specific to salmon life stages, which can help inform long-term sustainable management. Becky enjoys hiking, biking, and skiing with her family on the trails in Southcentral Alaska. Email: [rsshaftel@alaska.edu](mailto:rsshaftel@alaska.edu)
+
+<hr>
+<br>
+
+### **Staff**
+<br>
+**Mark Kolwyck, Freshwater Fisheries Specialist** holds a B.S. in Environmental Sustainability from Northern Arizona University.
+
+<br>
+
+<img src="images/brooke.jpg" style="width:10%; border:2px solid; margin-right: 20px" align="left">
+
+**Brooke Goins, Freshwater Fisheries Technician** holds degrees in Biology (A.S., 2021) from the Truckee Meadows Community College and a B.S. in Wildlife Ecology and Conservation (2023) from the University of Nevada Reno. Brooke has worked with state and federal agencies on fisheries and wildlife management, and has interests in fish ecology, riparian systems, and conservation.
+
+<br>
+<br>
+
+**Tanner Morgan, Student Fisheries Technician** is an undergraduate student pursuing a B.S. in Wildlife Ecology and Conservation in the Department of Natural Resources and Environmental Sciences, University of Nevada, Reno.
 
 <br>
 <br>
