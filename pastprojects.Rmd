@@ -56,16 +56,226 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 }</style>
 
 ### [**Past FFEL Research Projects**]{.ul}
+<br>
 
-<img src="images/under_construction.png" style="width:30%; border:2px solid; margin-right: 0px" align="center">
-
-In the meantime, check out Dr. Falke's USGS projects page [here](https://www1.usgs.gov/coopunits/staff/1227151) - scroll down and click on "Projects"
-
-You can also always check out our [Publications](publications.html) for an account of what we've been up to!
-
-<hr>
+Click on the **bold topics** below for information on our Past Projects and Current and Ongoing Collaborations!
 
 <br>
+
+<div class="expand collapsed" data-toggle="collapse" data-target="#juvsalmon" aria-expanded="false" aria-controls="juvsalmon">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **The Influence of Stream Flow Patterns on Juvenile Salmon Foraging and Growth in Southeast Alaska (2021 - Present)** </font>
+</a>
+</div>
+
+<div class="collapse" id="juvsalmon">
+<hr>
+Co-PI's: **Dr. Jason Fellman** (University of Alaska Southeast), **Dr. Ryan Bellmore** (U.S. Forest Service), **Dr. Curry Cunningham** (University of Alaska Fairbanks)
+
+Graduate Students: **Claire Delbecq** (MS 2023), **Kevin Fitzgerald** (MS 2023), **Blake Toney** (MS in progress)
+
+Funding: U.S. Geological Survey Alaska Climate Adaptation Science Center
+
+Abstract: In the Gulf of Alaska, streams will experience more dramatic low water events, interspersed with larger and potentially more frequent high flow events in the coming decades. Reduced stream flows are likely to occur due to diminished snowpack and seasonal droughts, while higher flow events are likely to occur with more frequent storms and rain-on-snow events. These changes are likely to influence the growth trajectories of juvenile salmon, such as Coho Salmon and Chinook Salmon, that live up to two years in freshwater before migrating to the ocean. Stream flows can influence juvenile salmon growth by modifying food availability, water clarity, temperature, and predation risk. This high-resolution study will examine how the sequence of high and low flow events that a watershed experiences influences foraging and growth conditions for juvenile Coho Salmon. Data collected from this study will help develop hypotheses regarding how on-going and future changes in stream flows in Gulf of Alaska rivers may reshape the trajectories of fish growth, which can inform broader-scale studies and monitoring. This information could be used to further develop salmon life cycle models that link stream flow to population dynamics. Results from this study will allow future modeling to predict how changes in the sequence, magnitude and duration of high and low stream flows may influence the growth trajectories (and survival) of juvenile salmon.
+
+Publications: 
+
+**Fitzgerald, K.A.** 2023. Environmental controls on foraging and growth of juvenile salmonids in a southeast Alaska watershed. Unpublished Master's thesis. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, Fairbanks, Alaska. 116 pp.
+
+**Delbecq, C.E. 2023.** Impacts of streamflow variability and antecedent conditions on the magnitude, timing, and form of watershed carbon and nutrient export from a coastal Alaskan watershed. Unpublished Master's thesis. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, Fairbanks, Alaska. 114 pp.
+
+**Fitzgerald, K. A.**, J. R. Bellmore, J. B. Fellman, M. L. H. Cheng, N. Boyles-Muehleck, **C. E. Delbecq**, and **J. A. Falke**. 2024. Juvenile coho salmon growth differences track biennial pink salmon spawning patterns. *Freshwater Biology*. [DOI](https://doi.org/10.1111/fwb.14328)
+
+**Delbecq, C.**, J. B. Fellman, J. R. Bellmore, E. J. Whitney, E. Hood, **K. Fitzgerald**, and **J. A. Falke**. 2024. Seasonal patterns in riverine carbon form and export from a temperate forested watershed in Southeast Alaska. *Biogeochemistry*. [DOI](https://doi.org/10.1007/s10533-024-01175-7)
+
+**Fitzgerald, K.A.**, and **Falke, J.** 2024. Juvenile coho salmon growth differences track biennial pink salmon spawning patterns: U.S. Geological Survey data release, ScienceBase [DOI](https://doi.org/10.5066/P1PWJM7G)
+
+**Delbecq, C.E.**, **Falke, J.A.**, and Whitney, E.J. 2024. Riverine carbon form and flow data from a temperate forested watershed in Southeast Alaska (2021). U. S. Geological Survey data release, ScienceBase [DOI](https://doi.org/10.5066/P14IKGTB)
+
+**Fitzgerald, K. A.**, J. R. Bellmore, J. B. Fellman, M. L. H. Cheng, **C. E. Delbecq*,** and **J. A. Falke**. 2023. Stream hydrology and a pulse subsidy shape patterns of fish foraging. *Journal of Animal Ecology* 92:2386-2398. [DOI]()
+
+**Fitzgerald, K.A**, and **Falke**, J. 2023. Data to support "Stream hydrology and a pulse subsidy shape patterns of fish foraging". U.S. Geological Survey data release, ScienceBase [DOI](https://doi.org/10.5066/P9EEEDB1)
+<hr>
+</div>
+</div>
+
+<div class="expand collapsed" data-toggle="collapse" data-target="#heatstress" aria-expanded="false" aria-controls="heatstress">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Juvenile Salmon Growth and Heat Stress (2023 - Present)** </font>
+</a>
+</div>
+
+<div class="collapse" id="heatstress">
+<hr>
+Co-PI's: **Dr. Vanessa Von Biela** (U.S. Geological Survey), **Dr. Dan Rinella** (U.S. Fish and Wildlife Service), **Dr. Jeff Muehlbauer** (U.S. Geological Survey/Alaska Coop Unit)
+
+Graduate Students: **John Hermus** (MS in progress)
+
+Funding: U.S. Geological Survey, U.S. Fish and Wildlife Service
+
+Abstract: The goal of this project is to understand how juvenile salmon growth in freshwater habitats is influenced by water temperatures and thermal stress. The sample collection for this project is on Chinook and coho salmon (Oncorhynchus tshawytscha and O. kisutch, respectively) in and around the Deshka River, a culturally, ecologically, and economically important salmon fishery in south-central Alaska. This research will be the thesis project for a Masters student in Fisheries at the University of Alaska Fairbanks. We will estimate recent growth from juvenile salmon otoliths and feeding success from stomach fullness for analysis with existing water temperature and thermal stress data. Results are expected to be broadly applicable to the Deshka River and also to salmon management throughout the state. Project results will inform key land and fisheries management decisions.
+<hr>
+</div>
+</div>
+
+<div class="expand collapsed" data-toggle="collapse" data-target="#beaver" aria-expanded="false" aria-controls="beaver">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Beaver and Wildfire Interactions in Interior Alaska Boreal Watersheds (2021 - 2023)** </font>
+</a>
+</div>
+
+<div class="collapse" id="beaver">
+<hr>
+Graduate Student: **Will Samuel** (MS 2023)
+
+Funding: U.S. Department of Defense Strategic Environmental Research and Development Program, U.S. Geological Survey Alaska Climate Adaptation Science Center
+
+Abstract: Wildfires are increasing in frequency, size, and severity across the boreal region of North America with significant effects on stream habitats for fish and wildlife communities. North American Beavers (<i>Castor canadensis</i>) are affected by and affect wildfires and are known to alter stream dynamics which impact organisms in and around those streams. Due to this, beavers could potentially act as a mechanism to magnify or reduce the effects of wildfires on aquatic systems with implications for ecological resilience and vulnerability in light of escalating wildfire regimes. Further, Alaska’s boreal region has diverse fisheries which are culturally and economically important and depend on the availability and suitability of freshwater habitats. Since freshwater habitat characteristics are driven by wildfire disturbance and beaver activities, understanding beaver/fire interactions is an important step to promote long-term sustainability of boreal fisheries. We are collaborating with the University of Alaska Fairbanks, USGS, U.S. Department of Defense, and the Alaska Fire Science Consortium to investigate this topic. The aim of our project is to develop models that include, 1) a spatially explicit model of beaver dam abundance and extent related to wildfire history, and 2) a habitat suitability model for Arctic Grayling (<i>Thymallus arcticus</i>); results will be used to estimate impacts of physical habitat changes on boreal fish species. Although model output can be used as stand-alone products for fire/fish/wildlife management decisions, our results will also be integrated into broader modeling efforts to assess the vulnerability of boreal ecosystems to changing climate and wildfire regimes.  
+
+Publications:
+
+**Samuel, W.T.** 2023. When beavers get burned, do fish get fried? The role of beavers to mediate wildfire effects on Arctic grayling in boreal Alaska. Unpublished Master's thesis. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, Fairbanks, Alaska. 130 pp.
+<hr>
+</div>
+</div>
+
+<div class="expand collapsed" data-toggle="collapse" data-target="#pike" aria-expanded="false" aria-controls="pike">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Physiological Performance of Native and Invasive Northern Pike: Implications for Barrier Design in Invaded Systems (2019 - 2022)** </font>
+</a>
+</div>
+
+<div class="collapse" id="pike">
+<hr>
+Graduate Student: **Taylor Cubbage** (MS 2022)
+
+Funding: U.S. Fish and Wildlife Service
+
+Abstract: Northern Pike are an important native fish species north and west of the Alaska Mountain Range, but illegal introductions and the natural spread of pike have led to thriving invasive populations in Southcentral Alaska where they are predating on native or costly stocked salmon and trout. Although methods to remove pike in Alaska (e.g., rotenone and gillnetting) are effective under certain conditions, alternatives are needed in the greater Cook Inlet region where the risk that pike will reinvade after removal is high due to abundant and interconnected lakes and river systems. The placement of short waterfall barriers may be a potential option to prevent pike from reinvading salmon habitat. First, it is essential to determine the maximum leaping heights and swimming speeds of pike to then confidently design and test such barriers in the field.  The objective of this study is to determine the maximum leaping heights, swimming speeds, and swimming endurance of pike, and how a variety of factors affect these physiological end-points in pike. We will collect pike from Fort Peck Reservoir in Montana, transport them to the Bozeman Fish Technology Center, and run leaping trials using an adjustable waterfall apparatus and swimming trials using both a swim tunnel and open channel flume. We will quantify how waterfall height, plunge pool depth, water temperature, fish size, and fish condition affect leaping abilities, and quantify how the latter three affect swimming speed and endurance maximums. Based on the literature, we expect to find that moderately sized pike will be the most successful at ascending the most difficult waterfall conditions (high waterfall heights with shallow pool depths), and water temperature will increase both leaping and swimming performance, while low fish condition will lead to reduced leaping and swimming performance. We will determine waterfall heights, pool depths, and water velocities that will both aerobically exhaust and prevent ascent of barriers by the most high-performing pike included in our trials. The results of this multi-experiment study will provide waterfall barrier parameters that theoretically will exhaust and prevent pike movement upstream. These specifications will be used to design and test barriers against invasive pike movement in the southcentral region to determine if they are a viable management option for pike in Alaska. If successful, the barrier designs can be modified and implemented in similar areas to target invasive pike while reducing impacts on native species.  
+
+Publications:
+
+**Cubbage, T. L.** 2022. Intraspecific variation and the leaping ability of Northern pike (Esox lucius): implications for invasion ecology and management. Unpublished Master's thesis. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, Fairbanks, Alaska. 146 pp.
+<hr>
+</div>
+</div>
+
+
+ 
+<div class="expand collapsed" data-toggle="collapse" data-target="#fishnfire" aria-expanded="false" aria-controls="fishnfire">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Boreal Aquatic Ecosystem Vulnerability to Fire and Climate Change (2018 - 2022)** </font>
+</a>
+</div>
+
+<div class="collapse" id="fishnfire">
+<hr>
+Co-PI's: **Dr. Scott Rupp** (University of Alaska Fairbanks), **Helene Genet** (University of Alaska Fairbanks), **Dr. Peter Bieniek** (University of Alaska Fairbanks)
+Graduate Student: **Dr. Elizabeth Hinkle** (PhD 2025)
+Staff: **Deanna Strohm**, **Josh Paul**
+
+Funding: U.S. Department of Defense Strategic Environmental Research and Development Program
+
+Abstract: Fire is the dominant ecological disturbance process in boreal forests and is natural and widespread. However, fire frequency, size and severity are increasing in Alaska owing to climate warming.  Interactions among fire, climate, permafrost, vegetation and hydrologic and watershed processes are poorly understood, yet critical for conservation and management of boreal aquatic habitats in a changing environment. Our research will address this challenge on and around DoD lands in interior Alaska by combining a detailed field experiment and measurements with an integrated suite of spatially- and temporally-explicit climate, terrestrial, and aquatic habitat models to better our understanding of the effects of fire and climate change on aquatic communities in interior Alaska boreal ecosystems. Collaborators include the University of Alaska Fairbanks, USGS, Alaska Department of Fish and Game, U.S. Fish and Wildlife Service, U.S. Department of Defense, and the Alaska Fire Science Consortium. The two primary goals of this project are to, 1) quantify fire effects on watershed- and local-scale aquatic habitats and the response of aquatic organisms on and adjacent to DoD lands in interior Alaska, and 2) integrate models that predict climate, fire, vegetation, hydrologic, and thermal dynamics to assess aquatic habitat and population vulnerability under a changing climate on and adjacent to DoD lands in interior Alaska. We will incorporate results from both objectives using a structured decision making (SDM) approach to define management objectives, decision options, management scenarios, and conduct cost-benefit analyses. The final product will be a web-based decision support tool developed to inform decision making. 
+
+Publications:
+
+**Hinkle, E.G. 2025**. Post-fire riverscapes: exploring the ecological and behavioral responses of stream communities to wildfire in boreal streams. Unpublished doctoral dissertation. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks. 162 p.
+
+**Strohm, D.D.**, **Sergeant, C.J.**, **Paul, J.D.**, and **J.A. Falke**. 2025. Streamflow regime characterization in the changing boreal ecosystem: wildfire impacts from stream-to-regional scales. *Science of the Total Environment* 991 (2025) 179770 [DOI](https://doi.org/10.1016/j.scitotenv.2025.179770)
+<hr>
+</div>
+</div>
+
+
+<div class="expand collapsed" data-toggle="collapse" data-target="#SEAKSalmon" aria-expanded="false" aria-controls="SEAKSalmon">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Assessing the Resilience of Southeast Alaskan Salmon to Shifting Temperature and Discharge Regimes Using a Life-Cycle Perspective Coupled with Community-Based Monitoring (2018-2021)** </font>
+</a>
+</div>
+
+<div class="collapse" id="SEAKSalmon">
+<hr>
+Co-PI's: **Dr. Ryan Bellmore** (U.S. Forest Service), **Dr. Rebecca Bellmore** (Southeast Alaska Watershed Coalition), **Davin Holen** (University of Alaska Fairbanks/Alaska SeaGrant)
+
+Graduate Student: **Dr. Chris Sergeant** (PhD 2022)
+
+
+Funding: Alaska SeaGrant
+
+Abstract: Salmon that spawn and rear in southeast Alaska (SEAK) forest streams are critically important to the region’s economic vitality and cultural identity. Environmental changes that compromise the ability of these streams to support salmon could have dramatic consequences for the region. In particular, there is concern that climate change could undermine the capacity of SEAK streams to support productive fisheries via alterations to water temperature and flow regimes via impacts on multiple freshwater life stages. Although life-cycle models that track salmon growth and survival across life stages have been developed for many at-risk populations throughout the southern range of salmon there have been limited efforts to expand this approach northward to Alaska. This project is a collaboration among the University of Alaska Fairbanks, U.S. Forest Service, and the Southeast Alaska Watershed Coalition. Results of our life cycle modeling for pink, chum, and coho salmon will increase the shared body of knowledge of Alaska watershed ecosystems and enhance community resilience. By presenting user-friendly versions of life-cycle models and model results to southeast Alaska community members and project partners, the project will enhance communities’ capacity to prepare for and adapt to environmental change by: 1) sharing knowledge of which systems are likely at-risk to help communities decide whether and how to mitigate and/or adapt to changes to local salmon resources; 2) training communities to use and adapt the life cycle models themselves, while continuing to serve as a resource for communities using the models; and 3) supporting community adaptation planning efforts via a climate scenarios planning session. 
+
+Publications:
+
+**Sergeant, C.J. 2022**. Freshwater pressures on Pacific Salmon in coastal Alaskan watersheds. Unpublished doctoral dissertation. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, Fairbanks, Alaska. 185 pp.
+
+**Sergeant, C. J.**, J. R. Bellmore, R. A. Bellmore, **J. A. Falke**, F. J. Mueter, and P. A. H. Westley. 2023. Hypoxia vulnerability in the salmon watersheds of Southeast Alaska. *Science of the Total Environment* 896:165247. [DOI]()
+
+**Sergeant, C. J.** and **Falke, J.** 2023. Data describing "Hypoxia Vulnerability in the Salmon Watersheds of Southeast Alaska". U.S. Geological Survey data release, ScienceBase [DOI](https://doi.org/10.5066/P9VAKF20)
+
+Bellmore, J. R., **C. J. Sergeant**, R. A. Bellmore, **J. A. Falke**, and J. B. Fellman. 2023. Modeling coho salmon (Oncorhynchus kisutch) population response to streamflow and water temperature extremes. *Canadian Journal of Fisheries and Aquatic Sciences* 80:243-260. [DOI]()
+
+**Sergeant, C.J.**, **Falke, J.A.**, Bellmore, R.A., Bellmore, J.R., and R.L. Crumley. 2020. A classification of streamflow patterns across the coastal Gulf of Alaska. *Water Resources Research* 56:e2019WR026127. [DOI](https://doi.org/10.1029/2019WR026127)
+<hr>
+</div>
+</div>
+
+<div class="expand collapsed" data-toggle="collapse" data-target="#chenachin" aria-expanded="false" aria-controls="chenachin">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Juvenile Chinook Salmon Movement, Overwinter Survival, and Outmigration Timing in the Chena River, Alaska (2018 - 2021)** </font>
+</a>
+</div>
+
+<div class="collapse" id="chenachin">
+<hr>
+Graduate Student: **Olivia Edwards** (MS 2023)
+
+Funding: Alaska Department of Fish and Game
+
+Abstract: Since 2001, Chinook Salmon returning to the Yukon River drainage have been designated as a stock of concern by the Alaska Board of Fisheries, and the Chena River supports one of the largest spawning stocks in the Alaskan portion of the Yukon River drainage. The Chena River juvenile Chinook Salmon study will provide a method to estimate the outmigration timing and magnitude of smolt production from several rearing areas on a highly utilized stock. These estimates will lead to a mark-recapture study design that generates accurate and precise estimates of smolt abundance and marine survival that can improve the stock assessment models that are used to establish sustainable escapement goals. This study is a collaboration between the University of Alaska Fairbanks and Alaska Department of Fish and Game. This sampling design will generate accurate and precise estimates of timing into and out of the rearing areas as well as relative overwinter survival. These improved models will aid managers when making decisions about the Yukon River’s important subsistence, commercial, and sport fisheries. The project will also identify and characterize important fall rearing areas for juvenile Chinook Salmon. All components of this study are identified by the Yukon River Panel as information needs/actions. In addition, the ADF&G Chinook Salmon Initiative has identified juvenile Chinook Salmon information as an information gap for the Yukon River and the Chena River is one of the largest contributors to this stock.
+
+Publications:
+
+**Edwards, O.N. 2023**. Influence of freshwater processes on juvenile Chinook Salmon size, movement, and outmigration timing in the Chena River, Alaska. Unpublished Master's thesis. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, Fairbanks, Alaska. 106 pp.
+<hr>
+</div>
+</div>
+
+
+<div class="expand collapsed" data-toggle="collapse" data-target="#rockfish" aria-expanded="false" aria-controls="rockfish">
+<div style="background-color:rgba(0, 0, 0, 0.0470588); padding:0px 12px;">
+<a style="color:black">
+<font size="4"> **Spawning Potential Ratio Assessment and Sensitivity Analysis Utilizing Estimates of Age at Maturity and Fecundity for Yelloweye Rockfish in Prince William Sound, Alaska (2018 - 2020)** </font>
+</a>
+</div>
+
+<div class="collapse" id="rockfish">
+<hr>
+Graduate Student: **Donnie Arthur** (MS 2020)
+
+Funding: Alaska Department of Fish and Game
+
+Abstract: Yelloweye Rockfish (Sebastes ruberrimus) are a highly-valued catch in recreational and commercial fisheries throughout Alaska and make up an important portion of the subsistence harvest in communities along the Gulf of Alaska. However, no management or assessment strategies exist for Yelloweye Rockfish in Prince William Sound, and to date no abundance estimates have been made. In this study, we intend to create a framework or threshold for harvest that can be applied to the management of Yelloweye Rockfish in Prince William Sound. This project is a collaboration between the University of Alaska Fairbanks and the Alaska Department of Fish and Game. The recreational harvest of Yelloweye Rockfish in Prince William Sound has been increasing for over 15 years. This harvest coupled with commercial removals could result in harvest level that is already exceeding a sustainable level. The project is directed towards the conservation of this specific species in a particular region where it has economic and cultural importance.
+
+Publications:
+
+**Arthur, D. E. 2020**. The reproductive biology of Yelloweye Rockfish (Sebastes ruberrimus) in Prince William Sound and the Northern Gulf of Alaska. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, Fairbanks, Alaska. 120 pp.
+
+**Arthur, D.E.**, **J.A. Falke**, B.J. Blain-Roth, and T.M. Sutton. 2022. Alaskan Yelloweye Rockfish Fecundity Revealed through an Automated Egg Count and Digital Imagery Method. *North American Journal of Fisheries Management* 42:828-838. [DOI](https://doi.org/10.1002/nafm.10768)
+<hr>
+</div>
+</div>
+<br>
+
+Under construction! More projects to be added....
+
 <br>
 
 <!-- Simple Dark Blue Footer -->
