@@ -1,0 +1,784 @@
+@article{falke2006spatial,
+  title={Spatial effects of reservoirs on fish assemblages in Great Plains streams in Kansas, USA},
+  author={Falke, Jeffrey A and Gido, Keith B},
+  journal={River Research and Applications},
+  volume={22},
+  number={1},
+  pages={55--68},
+  year={2006},
+  publisher={John Wiley \& Sons, Ltd. Chichester, UK}
+}
+
+@article{oakes2005modelling,
+  title={Modelling of stream fishes in the Great Plains, USA},
+  author={Oakes, RM and Gido, KB and Falke, JA and Olden, JD and Brock, BL},
+  journal={Ecology of Freshwater Fish},
+  volume={14},
+  number={4},
+  pages={361--374},
+  year={2005},
+  publisher={Munksgaard International Publishers Oxford, UK}
+}
+
+@inproceedings{gido2006fish,
+  title={Fish-habitat relations across spatial scales in prairie streams},
+  author={Gido, Keith B and Falke, Jeffrey A and Oakes, Robert M and Hase, Kristen J},
+  booktitle={American Fisheries Society Symposium},
+  volume={48},
+  pages={265},
+  year={2006},
+  organization={American Fisheries Society}
+}
+
+@article{falke2006effects,
+  title={Effects of reservoir connectivity on stream fish assemblages in the Great Plains},
+  author={Falke, Jeffrey A and Gido, Keith B},
+  journal={Canadian Journal of Fisheries and Aquatic Sciences},
+  volume={63},
+  number={3},
+  pages={480--493},
+  year={2006},
+  publisher={NRC Research Press Ottawa, Canada}
+}
+
+@article{dodds2008comparing,
+  title={Comparing ecosystem goods and services provided by restored and native lands},
+  author={Dodds, Walter K and Wilson, Kymberly C and Rehmeier, Ryan L and Knight, G Layne and Wiggam, Shelly and Falke, Jeffrey A and Dalgleish, Harmony J and Bertrand, Katie N},
+  journal={BioScience},
+  volume={58},
+  number={9},
+  pages={837--845},
+  year={2008},
+  publisher={American Institute of Biological Sciences}
+}
+
+@article{gido2009convergence,
+  title={Convergence of fish communities from the littoral zone of reservoirs},
+  author={Gido, Keith B and Schaefer, Jacob F and Falke, Jeffrey A},
+  journal={Freshwater Biology},
+  volume={54},
+  number={6},
+  pages={1163--1177},
+  year={2009},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{falke2009effects,
+  title={Effects of groundwater withdrawal and drought on native fishes and their habitats in the Arikaree River, Colorado},
+  author={Falke, Jeffrey Arron and Fausch, Kurt D and others},
+  year={2009},
+  publisher={Colorado State University. Libraries}
+}
+
+@article{falke2011role,
+  title={The role of groundwater pumping and drought in shaping ecological futures for stream fishes in a dryland river basin of the western Great Plains, USA},
+  author={Falke, Jeffrey A and Fausch, Kurt D and Magelky, Robin and Aldred, Angela and Durnford, Deanna S and Riley, Linda K and Oad, Ramchand},
+  journal={Ecohydrology},
+  volume={4},
+  number={5},
+  pages={682--697},
+  year={2011},
+  publisher={John Wiley \& Sons, Ltd. Chichester, UK}
+}
+
+@article{falke2010spawning,
+  title={Spawning phenology and habitat use in a Great Plains, USA, stream fish assemblage: an occupancy estimation approach},
+  author={Falke, Jeffrey A and Fausch, Kurt D and Bestgen, Kevin R and Bailey, Larissa L},
+  journal={Canadian Journal of Fisheries and Aquatic Sciences},
+  volume={67},
+  number={12},
+  pages={1942--1956},
+  year={2010}
+}
+
+@phdthesis{falke2004upstream,
+  title={The Upstream Effects of Reservoirs on Stream Fish Assemblages in the Great Plains},
+  author={Falke, Jeffrey A},
+  year={2004},
+  school={Kansas State University}
+}
+
+@article{falke2010streamflow,
+  title={Streamflow reductions and habitat drying affect growth, survival, and recruitment of brassy minnow across a Great Plains riverscape},
+  author={Falke, Jeffrey A and Bestgen, Kevin R and Fausch, Kurt D},
+  journal={Transactions of the American Fisheries Society},
+  volume={139},
+  number={5},
+  pages={1566--1583},
+  year={2010},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{falke2012colonization,
+  title={Colonization and extinction in dynamic habitats: an occupancy approach for a Great Plains stream fish assemblage},
+  author={Falke, Jeffrey A and Bailey, Larissa L and Fausch, Kurt D and Bestgen, Kevin R},
+  journal={Ecology},
+  volume={93},
+  number={4},
+  pages={858--867},
+  year={2012},
+  publisher={Ecological Society of America}
+}
+
+@article{peterson2013modelling,
+  title={Modelling dendritic ecological networks in space: an integrated network perspective},
+  author={Peterson, Erin E and Ver Hoef, Jay M and Isaak, Dan J and Falke, Jeffrey A and Fortin, Marie-Jos{\'e}e and Jordan, Chris E and McNyset, Kristina and Monestiez, Pascal and Ruesch, Aaron S and Sengupta, Aritra and others},
+  journal={Ecology letters},
+  volume={16},
+  number={5},
+  pages={707--719},
+  year={2013}
+}
+
+@article{falke2011ecological,
+  title={Ecological futures for stream fishes along an intermittent Great Plains riverscape affected by drought and groundwater withdrawal for irrigation},
+  author={Falke, Jeffrey A and Fausch, Kurt D and Magelky, Robin and Squires, Angela and Durnford, Deanna and Riley, Linda and Oad, Ramchand},
+  journal={Ecohydrology},
+  volume={4},
+  pages={682--697},
+  year={2011}
+}
+
+@article{falke2013spatial,
+  title={Spatial ecological processes and local factors predict the distribution and abundance of spawning by steelhead (Oncorhynchus mykiss) across a complex riverscape},
+  author={Falke, Jeffrey A and Dunham, Jason B and Jordan, Christopher E and McNyset, Kristina M and Reeves, Gordon H},
+  journal={PLoS One},
+  volume={8},
+  number={11},
+  pages={e79232},
+  year={2013},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{falke2010metapopulations,
+  title={From metapopulations to metacommunities: linking theory with empirical observations of the spatial population dynamics of stream fishes},
+  author={Falke, Jeffrey A and Fausch, Kurt D},
+  booktitle={American Fisheries Society Symposium},
+  volume={73},
+  pages={207--233},
+  year={2010}
+}
+
+@article{isaak2014applications,
+  title={Applications of spatial statistical network models to stream data},
+  author={Isaak, Daniel J and Peterson, Erin E and Ver Hoef, Jay M and Wenger, Seth J and Falke, Jeffrey A and Torgersen, Christian E and Sowder, Colin and Steel, E Ashley and Fortin, Marie-Josee and Jordan, Chris E and others},
+  journal={Wiley Interdisciplinary Reviews: Water},
+  volume={1},
+  number={3},
+  pages={277--294},
+  year={2014},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA}
+}
+
+@article{sloat2014ecological,
+  title={Ecological and evolutionary patterns of freshwater maturation in Pacific and Atlantic salmonines},
+  author={Sloat, Matthew R and Fraser, Dylan J and Dunham, Jason B and Falke, Jeffrey A and Jordan, Chris E and McMillan, John R and Ohms, Haley A},
+  journal={Reviews in Fish Biology and Fisheries},
+  volume={24},
+  number={3},
+  pages={689--707},
+  year={2014},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{falke2015climate,
+  title={Climate change and vulnerability of bull trout (Salvelinus confluentus) in a fire-prone landscape},
+  author={Falke, Jeffrey A and Flitcroft, Rebecca L and Dunham, Jason B and McNyset, Kristina M and Hessburg, Paul F and Reeves, Gordon H},
+  journal={Canadian Journal of Fisheries and Aquatic Sciences},
+  volume={72},
+  number={2},
+  pages={304--318},
+  year={2015},
+  publisher={NRC Research Press}
+}
+
+@article{gido2009convergence,
+  title={Convergence of littoral zone fish communities in reservoirs},
+  author={Gido, KB and Schaefer, J and Falke, JA},
+  journal={Freshwater Biology},
+  volume={54},
+  pages={1163--1177},
+  year={2009}
+}
+
+@article{sloat2014erratum,
+  title={Erratum to: Ecological and evolutionary patterns of freshwater maturation in Pacific and Atlantic salmonines},
+  author={Sloat, Matthew R and Fraser, Dylan J and Dunham, Jason B and Falke, Jeffrey A and Jordan, Chris E and McMillan, John R and Ohms, Haley A},
+  journal={Reviews in Fish Biology and Fisheries},
+  volume={24},
+  number={3},
+  pages={709--711},
+  year={2014},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{heim2016seasonal,
+  title={Seasonal cues of Arctic grayling movement in a small Arctic stream: the importance of surface water connectivity},
+  author={Heim, Kurt C and Wipfli, Mark S and Whitman, Matthew S and Arp, Christopher D and Adams, Jeff and Falke, Jeffrey A},
+  journal={Environmental biology of fishes},
+  volume={99},
+  number={1},
+  pages={49--65},
+  year={2016},
+  publisher={Springer Netherlands Dordrecht}
+}
+
+@article{flitcroft2016wildfire,
+  title={Wildfire may increase habitat quality for spring Chinook salmon in the Wenatchee River subbasin, WA, USA},
+  author={Flitcroft, Rebecca L and Falke, Jeffrey A and Reeves, Gordon H and Hessburg, Paul F and McNyset, Kris M and Benda, Lee E},
+  journal={Forest Ecology and Management},
+  volume={359},
+  pages={126--140},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{falke2016simple,
+  title={A simple prioritization tool to diagnose impairment of stream temperature for coldwater fishes in the Great Basin},
+  author={Falke, Jeffrey A and Dunham, Jason B and Hockman-Wert, David and Pahl, Randy},
+  journal={North American Journal of Fisheries Management},
+  volume={36},
+  number={1},
+  pages={147--160},
+  year={2016},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{lynch2016climate,
+  title={Climate change effects on North American inland fish populations and assemblages},
+  author={Lynch, Abigail J and Myers, Bonnie JE and Chu, Cindy and Eby, Lisa A and Falke, Jeffrey A and Kovach, Ryan P and Krabbenhoft, Trevor J and Kwak, Thomas J and Lyons, John and Paukert, Craig P and others},
+  journal={Fisheries},
+  volume={41},
+  number={7},
+  pages={346--361},
+  year={2016},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{fraley2016seasonal,
+  title={Seasonal movements and habitat use of potamodromous rainbow trout across a complex Alaska riverscape},
+  author={Fraley, Kevin M and Falke, Jeffrey A and Yanusz, Richard and Ivey, Sam},
+  journal={Transactions of the American Fisheries Society},
+  volume={145},
+  number={5},
+  pages={1077--1092},
+  year={2016},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{myers2017global,
+  title={Global synthesis of the documented and projected effects of climate change on inland fishes},
+  author={Myers, Bonnie JE and Lynch, Abigail J and Bunnell, David B and Chu, Cindy and Falke, Jeffrey A and Kovach, Ryan P and Krabbenhoft, Trevor J and Kwak, Thomas J and Paukert, Craig P},
+  journal={Reviews in Fish Biology and Fisheries},
+  volume={27},
+  number={2},
+  pages={339--361},
+  year={2017},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{huntsman2017role,
+  title={The role of density-dependent and--independent processes in spawning habitat selection by salmon in an Arctic riverscape},
+  author={Huntsman, Brock M and Falke, Jeffrey A and Savereide, James W and Bennett, Katrina E},
+  journal={PLoS One},
+  volume={12},
+  number={5},
+  pages={e0177467},
+  year={2017},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{sparks2017thermal,
+  title={Thermal adaptation and phenotypic plasticity in a warming world: Insights from common garden experiments on Alaskan sockeye salmon},
+  author={Sparks, Morgan M and Westley, Peter AH and Falke, Jeffrey A and Quinn, Thomas P},
+  journal={Global Change Biology},
+  volume={23},
+  number={12},
+  pages={5203--5217},
+  year={2017}
+}
+
+@incollection{mcgarvey2017fish,
+  title={Fish assemblages},
+  author={McGarvey, Daniel J and Falke, Jeffrey A and Li, Hiram W and Li, Judith L},
+  booktitle={Methods in Stream Ecology, Volume 1},
+  pages={321--353},
+  year={2017},
+  publisher={Academic Press}
+}
+
+@article{perkin2017groundwater,
+  title={Groundwater declines are linked to changes in Great Plains stream fish assemblages},
+  author={Perkin, Joshuah S and Gido, Keith B and Falke, Jeffrey A and Fausch, Kurt D and Crockett, Harry and Johnson, Eric R and Sanderson, John},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={114},
+  number={28},
+  pages={7373--7378},
+  year={2017},
+  publisher={National Academy of Sciences}
+}
+
+@article{fraley2018rainbow,
+  title={Rainbow trout movement behavior and habitat occupancy are influenced by sex and Pacific salmon presence in an Alaska river system},
+  author={Fraley, Kevin M and Falke, Jeffrey A and McPhee, Megan V and Prakash, Anupma},
+  journal={Canadian Journal of Fisheries and Aquatic Sciences},
+  volume={75},
+  number={4},
+  pages={525--537},
+  year={2018},
+  publisher={NRC Research Press}
+}
+
+@article{matter2018rapid,
+  title={A rapid-assessment method to estimate the distribution of juvenile Chinook Salmon in tributary habitats using eDNA and occupancy estimation},
+  author={Matter, Allison N and Falke, Jeffrey A and L{\'o}pez, J Andr{\'e}s and Savereide, James W},
+  journal={North American Journal of Fisheries Management},
+  volume={38},
+  number={1},
+  pages={223--236},
+  year={2018},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{fraley2016seasonal,
+  title={Seasonal movements and habitat use of potamodromous rainbow trout in the Susitna River basin, southcentral Alaska, USA},
+  author={Fraley, Mr Kevin and Falke, Jeffrey and Yanusz, Mr Richard and Ivey, Mr Sam},
+  year={2016}
+}
+
+@article{sparks2019influences,
+  title={Influences of spawning timing, water temperature, and climatic warming on early life history phenology in western Alaska sockeye salmon},
+  author={Sparks, Morgan M and Falke, Jeffrey A and Quinn, Thomas P and Adkison, Milo D and Schindler, Daniel E and Bartz, Krista and Young, Dan and Westley, Peter AH},
+  journal={Canadian Journal of Fisheries and Aquatic Sciences},
+  volume={76},
+  number={1},
+  pages={123--135},
+  year={2019},
+  publisher={NRC Research Press}
+}
+
+@article{tibbles2018interferometric,
+  title={An interferometric synthetic aperture radar (InSAR) habitat suitability model to identify overwinter conditions for coregonine whitefishes in Arctic lagoons},
+  author={Tibbles, Marguerite and Falke, Jeffrey A and Mahoney, Andrew R and Robards, Martin D and Seitz, Andrew C},
+  journal={Transactions of the American Fisheries Society},
+  volume={147},
+  number={6},
+  pages={1167--1178},
+  year={2018},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{huntsman2019main,
+  title={Main stem and off-channel habitat use by juvenile Chinook salmon in a sub-Arctic riverscape},
+  author={Huntsman, Brock M and Falke, Jeffrey A},
+  journal={Freshwater Biology},
+  volume={64},
+  number={3},
+  pages={433--446},
+  year={2019}
+}
+
+@article{heim2019general,
+  title={A general model of temporary aquatic habitat use: water phenology as a life history filter},
+  author={Heim, Kurt C and McMahon, Thomas E and Calle, Leonardo and Wipfli, Mark S and Falke, Jeffrey A},
+  journal={Fish and Fisheries},
+  volume={20},
+  number={4},
+  pages={802--816},
+  year={2019}
+}
+
+@article{falke2019energetic,
+  title={Energetic status and bioelectrical impedance modeling of Arctic grayling Thymallus arcticus in interior Alaska rivers},
+  author={Falke, Jeffrey A and Bailey, Lauren T and Fraley, Kevin M and Lunde, Michael J and Gryska, Andrew D},
+  journal={Environmental Biology of Fishes},
+  volume={102},
+  number={11},
+  pages={1337--1349},
+  year={2019},
+  publisher={Springer Netherlands Dordrecht}
+}
+
+@incollection{falke2019climatic,
+  title={Climatic Variation Drives Growth Potential of Juvenile Chinook Salmon along a Subarctic Boreal Riverscape},
+  author={Falke, J.A. and Huntsman, B.M. and Schoen, E.R.},
+  booktitle={Advances in Understanding Landscape Influences on Freshwater Habitats and Biological Assemblages},
+  pages={57--82},
+  year={2019},
+  publisher={American Fisheries Society}
+}
+
+@article{courtney2020energetic,
+  title={Energetic status of Alaskan Chinook Salmon: interpopulation comparisons and predictive modeling using bioelectrical impedance analysis},
+  author={Courtney, Kristin R and Falke, Jeffrey A and Cox, M Keith and Nichols, Jeff},
+  journal={North American Journal of Fisheries Management},
+  volume={40},
+  number={1},
+  pages={209--224},
+  year={2020},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@misc{tibbles2018sar,
+  title={An In SAR habitat suitability model to identify overwinter conditions for coregonine whitefishes in Arctic lagoons, T. Am. Fish. Soc., 147, 1167--1178},
+  author={Tibbles, M and Falke, JA and Mahoney, AR and Robards, MD and Seitz, AC},
+  year={2018}
+}
+
+@article{sergeant2020classification,
+  title={A classification of streamflow patterns across the coastal Gulf of Alaska},
+  author={Sergeant, Christopher J and Falke, Jeffrey A and Bellmore, Rebecca A and Bellmore, J Ryan and Crumley, Ryan L},
+  journal={Water Resources Research},
+  volume={56},
+  number={2},
+  pages={e2019WR026127},
+  year={2020}
+}
+
+@article{krabbenhoft2020ficli,
+  title={FiCli, the Fish and Climate Change Database, informs climate adaptation and management for freshwater fishes},
+  author={Krabbenhoft, Trevor J and Myers, Bonnie JE and Wong, Jesse P and Chu, Cindy and Tingley III, Ralph W and Falke, Jeffrey A and Kwak, Thomas J and Paukert, Craig P and Lynch, Abigail J},
+  journal={Scientific data},
+  volume={7},
+  number={1},
+  pages={124},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}
+
+@inproceedings{strohm2019gaging,
+  title={Gaging the Importance: Hydrologic Regime Characterization for Wildfire-Impacted Streams in Changing Boreal Ecosystems},
+  author={Strohm-Klobucar, Deanna and Falke, Jeffrey},
+  booktitle={American Fisheries Society \& The Wildlife Society 2019 Joint Annual Conference},
+  year={2019},
+  organization={AFS}
+}
+
+@article{thompson2021responding,
+  title={Responding to ecosystem transformation: Resist, accept, or direct?},
+  author={Thompson, Laura M and Lynch, Abigail J and Beever, Erik A and Engman, Augustin C and Falke, Jeffrey A and Jackson, Stephen T and Krabbenhoft, Trevor J and Lawrence, David J and Limpinsel, Douglas and Magill, Robert T and others},
+  journal={Fisheries},
+  volume={46},
+  number={1},
+  pages={8--21},
+  year={2021},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{dodds2008restored,
+  title={Restored and Native Lands},
+  author={DODDS, WALTER K and WILSON, KYMBERLY C and REHMEIER, RYAN L and KNIGHT, G LAYNE and WIGGAM, SHELLY and FALKE, JEFFREY A and DALGLEISH, HARMONY J and BERTRAND, KATIE N},
+  journal={BioScience},
+  volume={58},
+  number={9},
+  year={2008}
+}
+
+@inproceedings{klobucar2019fo,
+  title={Fo'real Changes in Boreal Streams: A Multifaceted Modeling Approach to Predict the Effects of Forest Fire on Aquatic Habitat Vulnerability in Interior Alaska},
+  author={Klobucar, Stephen and Falke, Jeffrey and Rupp, T Scott and Bieniek, Peter and Genet, Helene and Lindgren, Michael},
+  booktitle={American Fisheries Society \& The Wildlife Society 2019 Joint Annual Conference},
+  year={2019},
+  organization={AFS}
+}
+
+@inproceedings{arthur2019reproductive,
+  title={Reproductive Life History of Yelloweye Rockfish (Sebastes ruberrimus) in Prince William Sound and the Northern Gulf of Alaska},
+  author={Arthur, Donald and Falke, Jeffrey and Beaudreau, Anne and Sutton, Trent and Blain, Brittany},
+  booktitle={American Fisheries Society \& The Wildlife Society 2019 Joint Annual Conference},
+  year={2019},
+  organization={AFS}
+}
+
+@inproceedings{falke2019longitudinal,
+  title={Longitudinal Patterns of Logjams and Occupancy By Juvenile Chinook Salmon Along a Sub-Arctic Boreal Riverscape},
+  author={Falke, Jeffrey and Cathcart, C Nate and Fox, Jimmy and Henszey, Robert and Lininger, Katherine},
+  booktitle={American Fisheries Society \& The Wildlife Society 2019 Joint Annual Conference},
+  year={2019},
+  organization={AFS}
+}
+
+@inproceedings{heim2018unexpected,
+  title={Unexpected Places: The Use of Temporary Aquatic Habitats By Fish, Implications for Conservation, and Research Needs},
+  author={Heim, Kurt C and McMahon, Thomas E and Falke, Jeffrey and Wipfli, Mark S},
+  booktitle={148th Annual Meeting of the American Fisheries Society},
+  year={2018},
+  organization={AFS}
+}
+
+@article{jalbert2021vulnerability,
+  title={Vulnerability of Pacific salmon to invasion of northern pike (Esox lucius) in Southcentral Alaska},
+  author={Jalbert, Chase S and Falke, Jeffrey A and L{\'o}pez, J Andr{\'e}s and Dunker, Kristine J and Sepulveda, Adam J and Westley, Peter AH},
+  journal={PLoS One},
+  volume={16},
+  number={7},
+  pages={e0254097},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{clawson2022high,
+  title={High-resolution remote sensing and multistate occupancy estimation identify drivers of spawning site selection in fall chum salmon (Oncorhynchus keta) across a sub-Arctic riverscape},
+  author={Clawson, Chelsea M and Falke, Jeffrey A and Bailey, Larissa L and Rose, Joshua and Prakash, Anupma and Martin, Aaron E},
+  journal={Canadian Journal of Fisheries and Aquatic Sciences},
+  volume={79},
+  number={3},
+  pages={380--394},
+  year={2022},
+  publisher={Canadian Science Publishing 1840 Woodward Drive, Suite 1, Ottawa, ON K2C 0P7}
+}
+
+@article{stratton2021assessing,
+  title={Assessing Potential Stock Structure of Adult Coho Salmon in a Small Alaska Watershed: Quantifying Run Timing, Spawning Locations, and Holding Areas with Radiotelemetry},
+  author={Stratton, ME and Finkle, H and Falke, Jeffrey A and Westley, PAH},
+  journal={North American Journal of Fisheries Management},
+  volume={41},
+  number={5},
+  pages={1423--1435},
+  year={2021},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{borg2021determinants,
+  title={Determinants of gray wolf (Canis lupus) sightings in Denali National Park},
+  author={Borg, Bridget L and Arthur, Stephen M and Falke, Jeffrey A and Prugh, Laura R},
+  journal={Arctic},
+  volume={74},
+  number={1},
+  pages={51--66},
+  year={2021},
+  publisher={Arctic Institute of North America}
+}
+
+@article{leppi2022landscape,
+  title={Landscape geomorphology and local-riverine features influence Broad Whitefish (Coregonus nasus) spawning habitat suitability in Arctic Alaska},
+  author={Leppi, Jason C and Falke, Jeffrey A and Rinella, Daniel J and Wipfli, Mark S and Seitz, Andrew C and Whitman, Matthew S},
+  journal={Ecology of Freshwater Fish},
+  volume={31},
+  number={4},
+  pages={622--639},
+  year={2022}
+}
+
+@article{arthur2022alaskan,
+  title={Alaskan yelloweye rockfish fecundity revealed through an automated egg count and digital imagery method},
+  author={Arthur, Donald E and Falke, Jeffrey A and Blain-Roth, Brittany J and Sutton, Trent M},
+  journal={North American Journal of Fisheries Management},
+  volume={42},
+  number={4},
+  pages={828--838},
+  year={2022},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{lynch2022reducing,
+  title={Reducing uncertainty in climate change responses of inland fishes: A decision-path approach},
+  author={Lynch, Abigail J and Myers, Bonnie JE and Wong, Jesse P and Chu, Cindy and Tingley III, Ralph W and Falke, Jeffrey A and Kwak, Thomas J and Paukert, Craig P and Krabbenhoft, Trevor J},
+  journal={Conservation Science and Practice},
+  volume={4},
+  number={7},
+  pages={e12724},
+  year={2022},
+  publisher={John Wiley \& Sons, Ltd Chichester, UK}
+}
+
+@article{walther2022species,
+  title={Species distributions and the recognition of risk in restoration planning: A case study of salmonid fishes},
+  author={Walther, Eric J and Zimmerman, Mara S and Falke, Jeffrey A and Westley, Peter AH},
+  journal={Ecological Applications},
+  volume={32},
+  number={8},
+  pages={e2701},
+  year={2022},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA}
+}
+
+@article{torvinen2023lake,
+  title={Lake trout (Salvelinus namaycush) otoliths indicate effects of climate and lake morphology on growth patterns in Arctic lakes},
+  author={Torvinen, Eric S and Falke, Jeffrey A and Arp, Christopher D and Jones, Benjamin M and Whitman, Matthew S and Zimmerman, Christian E},
+  journal={Ecology of Freshwater Fish},
+  volume={32},
+  number={1},
+  pages={166--180},
+  year={2023}
+}
+
+@article{meyer2023landscape,
+  title={Landscape characteristics influence projected growth rates of stream-resident juvenile salmon in the face of climate change in the Kenai River watershed, south-central Alaska},
+  author={Meyer, Benjamin E and Wipfli, Mark S and Schoen, Erik R and Rinella, Daniel J and Falke, Jeffrey A},
+  journal={Transactions of the American Fisheries Society},
+  volume={152},
+  number={2},
+  pages={169--186},
+  year={2023},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{bellmore2022modeling,
+  title={Modeling coho salmon (Oncorhynchus kisutch) population response to streamflow and water temperature extremes},
+  author={Bellmore, J Ryan and Sergeant, Christopher J and Bellmore, Rebecca A and Falke, Jeffrey A and Fellman, Jason B},
+  journal={Canadian Journal of Fisheries and Aquatic Sciences},
+  volume={80},
+  number={2},
+  pages={243--260},
+  year={2022},
+  publisher={Canadian Science Publishing 1840 Woodward Drive, Suite 1, Ottawa, ON K2C 0P7}
+}
+
+@misc{leppi2023climate,
+  title={Climate change risks to freshwater subsistence fisheries in Arctic Alaska: insights and uncertainty from Broad Whitefish Coregonus nasus},
+  author={Leppi, Jason C and Rinella, Daniel J and Wipfli, Mark S and Liljedahl, Anna K and Seitz, Andrew C and Falke, Jeffrey A},
+  journal={Fisheries},
+  volume={48},
+  number={7},
+  pages={295--306},
+  year={2023},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{campbell2023genomics,
+  title={Genomics reveal the origins and current structure of a genetically depauperate freshwater species in its introduced Alaskan range},
+  author={Campbell, Matthew A and Hale, Matthew C and Jalbert, Chase S and Dunker, Kristine and Sepulveda, Adam J and L{\'o}pez, J Andr{\'e}s and Falke, Jeffrey A and Westley, Peter AH},
+  journal={Evolutionary Applications},
+  volume={16},
+  number={6},
+  pages={1119--1134},
+  year={2023}
+}
+
+@article{sergeant2023hypoxia,
+  title={Hypoxia vulnerability in the salmon watersheds of Southeast Alaska},
+  author={Sergeant, Christopher J and Bellmore, J Ryan and Bellmore, Rebecca A and Falke, Jeffrey A and Mueter, Franz J and Westley, Peter AH},
+  journal={Science of the Total Environment},
+  volume={896},
+  pages={165247},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{samuel2024validating,
+  title={Validating morphometrics as a nonlethal tool to determine Arctic Grayling sex},
+  author={Samuel, William T and Yancy, Lauren E and Hinkle, Elizabeth G and Falke, Jeffrey A},
+  journal={North American Journal of Fisheries Management},
+  volume={44},
+  number={1},
+  pages={70--78},
+  year={2024},
+  publisher={Oxford University Press Oxford, UK}
+}
+
+@article{fitzgerald2023stream,
+  title={Stream hydrology and a pulse subsidy shape patterns of fish foraging},
+  author={Fitzgerald, Kevin A and Bellmore, J Ryan and Fellman, Jason B and Cheng, Matthew LH and Delbecq, Claire E and Falke, Jeffrey A},
+  journal={Journal of Animal Ecology},
+  volume={92},
+  number={12},
+  pages={2386--2398},
+  year={2023}
+}
+
+@article{delbecq2024seasonal,
+  title={Seasonal patterns in riverine carbon form and export from a temperate forested watershed in Southeast Alaska},
+  author={Delbecq, Claire and Fellman, Jason B and Bellmore, J Ryan and Whitney, Emily J and Hood, Eran and Fitzgerald, Kevin and Falke, Jeffrey A},
+  journal={Biogeochemistry},
+  volume={167},
+  number={11},
+  pages={1353--1369},
+  year={2024},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{fitzgerald2024juvenile,
+  title={Juvenile coho salmon growth differences track biennial pink salmon spawning patterns},
+  author={Fitzgerald, Kevin A and Bellmore, J Ryan and Fellman, Jason B and Cheng, Matthew LH and Boyles-Muehleck, Naomi and Delbecq, Claire E and Falke, Jeffrey A},
+  journal={Freshwater Biology},
+  volume={69},
+  number={11},
+  pages={1583--1595},
+  year={2024}
+}
+
+@article{cathcart2025multiscale,
+  title={Multiscale Processes Drive Formation of Logjam Habitats and Use by Juvenile Chinook Salmon Across a Boreal Stream Network in Alaska},
+  author={Cathcart, Charles N and Falke, Jeffrey A and Fox, Jimmy and Henszey, Robert and Lininger, Katherine},
+  journal={River Research and Applications},
+  volume={41},
+  number={3},
+  pages={593--608},
+  year={2025},
+  publisher={John Wiley \& Sons, Ltd. Chichester, UK}
+}
+
+@article{strohm2025streamflow,
+  title={Streamflow regime characterization in the changing boreal ecosystem: wildfire impacts from stream-to-regional scales},
+  author={Strohm, Deanna D and Sergeant, Christopher J and Paul, Josh D and Falke, Jeffrey A},
+  journal={Science of The Total Environment},
+  volume={991},
+  pages={179770},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{falke2024stream,
+  title={Stream Attributes and Habitat Intrinsic Potential Model Results to examine Freshwater Habitat Potential for Chinook Salmon in the Yukon and Kuskokwim River Basins, Alaska},
+  author={Falke, Jeffrey A and Paul, Josh},
+  journal={US Geological Survey (USGS) Data Release},
+  pages={811},
+  year={2024}
+}
+
+@article{myers2017data,
+  title={Data Files: Global Synthesis of Projected and Documented Effects of Climate Change on Inland Fish},
+  author={Myers, Bonnie and Lynch, Abigail and Bunnell, David and Chu, Cindy and Kovach, Ryan and Falke, Jeffrey and Krabbenhoft, Trevor and Kwak, Thomas and Paukert, Craig},
+  journal={US Geological Survey (USGS) Data Release},
+  pages={798},
+  year={2017}
+}
+
+@article{falke2023code,
+  title={Code to Support Hypoxia vulnerability in the salmon watersheds of Southeast Alaska},
+  author={Falke, Jeffrey A and Sergeant, Christopher J},
+  journal={US Geological Survey (USGS) Software},
+  pages={106},
+  year={2023}
+}
+
+@article{sergeant2023data,
+  title={Data describing hypoxia vulnerability in the salmon watersheds of Southeast Alaska},
+  author={Sergeant, Christopher and Falke, Jeffrey A},
+  journal={US Geological Survey (USGS) Data Release},
+  pages={2983},
+  year={2023}
+}
+
+@article{myers2020fish,
+  title={Fish and Climate Change (FiCli) Database: Informing climate change adaptation and management actions for freshwater fishes},
+  author={Myers, Bonnie JE and Krabbenhoft, Trevor J and Wong, Jesse and Chu, Cindy and Tingley III, Ralph W and Falke, Jeffrey A and Kwak, Thomas J and Paukert, Craig and Lynch, Abigail J},
+  journal={US Geological Survey (USGS) Data Release},
+  pages={327},
+  year={2020}
+}
+
+@article{sepulveda2021data,
+  title={Data describing vulnerability of Pacific salmon to invasion of northern pike (Esox lucius) in southcentral Alaska, 2017-2019},
+  author={Sepulveda, Adam J and Falke, Jeffrey A and Jalbert, Chase S},
+  journal={US Geological Survey (USGS) Data Release},
+  pages={477},
+  year={2021}
+}
+
+@article{delbecq2024riverine,
+  title={Riverine carbon form and flow data from a temperate forested watershed in Southeast Alaska (2021)},
+  author={Delbecq, Claire and Falke, Jeffrey A and Whitney, Emily J},
+  journal={US Geological Survey (USGS) Data Release},
+  pages={665},
+  year={2024}
+}
+
+@article{falke2024code,
+  title={Code to Support Chinook Salmon Freshwater Habitat Potential Modeling and Mapping for the Yukon and Kuskokwim River Basins in Alaska},
+  author={Falke, Jeffrey A and Paul, Josh},
+  journal={US Geological Survey (USGS) Software},
+  pages={76},
+  year={2024}
+}
