@@ -58,21 +58,6 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 #### [**Current FFEL Research Projects**]{.ul}
 <br>
 
-### **Riparian Thinning Effects on Trophic Pathways That Support Aquatic Consumers in a Sierra Nevada Headwater Stream**
-
-<br>
-[**Project Personnel**]{.ul}<br>
-**Dr. Jeff Falke (PI)** <br>
-**Brooke Radow (MS Student; NRES)** <br>
-**Tanner Morgan (Undergraduate Researcher; NRES)**
-
-**Funding: University of Nevada, Reno; Nevada Department of Wildlife**
-
-<img src="images/IMG_5397.jpeg" style="width:40%; border:2px solid; margin-left: 15px" align="right">
-
-Across montane landscapes of the western U.S., decades of fire suppression and conifer encroachment have degraded meadow habitats and elevated wildfire risk, prompting large-scale forest restoration efforts whose consequences for adjacent streams remain poorly understood. At the the University of Nevada, Reno Whittell Forest and Wildlife Research Area in the eastern Sierra Nevada, we are investigating how large-scale riparian conifer removal, implemented to restore montane meadow habitat and reduce wildfire risk, alters the structure and function of a headwater stream food web. Using a Before-After-Control-Impact (BACI) design along Franktown Creek, we are tracking how the loss of streamside canopy reshapes light and temperature regimes and cascades through the food web, from periphyton and aquatic and terrestrial invertebrates to non-native Brook Trout (Salvelinus fontinalis), the system's dominant fish consumer. We pair this empirical monitoring with simulation modeling coupled with fish bioenergetics to predict food web responses under alternative canopy, climate, and fish-occurrence scenarios. Together, these approaches link terrestrial forest management to aquatic ecosystem function and provide actionable science to help managers integrate forest restoration and wildfire risk reduction with the conservation of sensitive mountain streams.
-
-<hr>
 
 ### **Integrated Monitoring Plan Development for Native and Non-Native Fishes at Ash Meadows National Wildlife Refuge, Nevada**
 
@@ -81,25 +66,23 @@ Across montane landscapes of the western U.S., decades of fire suppression and c
 **Dr. Jeff Falke (PI)** <br>
 **Dr. Dara Yiu (Post-doctoral Researcher)**
 
-**Funding: U.S. Fish and Wildlife Service, Desert National Wildlife Refuge Complex**
-
 <img src="images/crystal_spr.jpeg" style="width:40%; border:2px solid; margin-right: 15px" align="left">
 
 Monitoring for population status and trends is a critical component to successful conservation and management of freshwater fishes. However, integrated status and trend monitoring efforts for native and invasive fishes that combine traditional active and passive capture methods with single- and multiple-species eDNA assays have yet to be developed for desert ecosystems. A modern, formalized sampling design, analysis, and reporting framework is needed to institutionalize science-based management and advance our understanding of native and nonnative fishes at Ash Meadows National Wildlife Refuge (AMNWR), Nevada. The project is a collaboration of researchers across multiple agencies and includes the **U.S. Geological Survey**, **University of Nevada, Reno**, **Washington State University**, **U.S. Fish and Wildlife Service Desert Refuge Complex**, and the **Nevada Department of Wildlife**. We will develop a peer reviewed integrated status and trend monitoring plan for native and non-native aquatic taxa at AMNWR that incorporates eDNA assays, traditional fish sampling, and structured decision making.
 
 <hr>
 
-### **EcoHyDrA: An Eco-Hydrologic Assessment of Long-Term Drought on Western U.S. Landscapes**
+### **Landscape Watershed Condition and Drought Vulnerability Assessment in the Western U.S.**
 
 <br>
 [**Project Personnel**]{.ul}<br>
 **Dr. Jeff Falke (PI)** <br>
-
-**Funding: U.S. Geological Survey, Ecosystems Mission Area**
+**Christopher Frazier (PhD Student; EECB)**
 
 <img src="images/mvw_dry.jpeg" style="width:20%; border:2px solid; margin-left: 15px" align="right">
 
-Climate variability and persistent drought have focused attention on declining water availability across western U.S. riverscapes. Although meteorological drought indicators are well established, relationships between climate and ecosystem responses are less recognized and need to reflect multiple drought "flavors" and complex mediating processes. A better understanding of drought sensitivity in an ecological context (i.e., how ecosystems change in response to water deficits) will provide essential information for adaptation planning and management. We are developing a prototype watershed drought vulnerability assessment using a combination of remotely-sensed observations and results from recent modeling efforts by compiling spatially-explicit time series representing meteorological indicators, hydrologic responses (streamflow and permanence, soil moisture, spring zones), soil moisture, and vegetation productivity (upland, riparian) and summarized interannual variability through time. We are assessing sensitivity by examining variability within and among components, testing spatial patterns across landform classifications, and evaluating temporal trends. Our next steps include expanding to additional watersheds that represent gradients in ecological condition and landscape intactness, developing integrated indicators through data reduction, and constructing relational models, probabilistic networks, and tools for adaptation planning. Ultimately, we hope to provide an understanding of drought sensitivity that incorporates social and ecological elements to inform broad- to local-scale decisions and facilitate identification of watersheds and landscape positions most sensitive to drought. The project is a collaboration of researchers across **USGS** including the **Cooperative Research Units**, **Northern Rocky Mountain Science Center**, and **Forest and Rangeland Ecosystem Science Center**.
+Climate warming and persistent drought have drawn increasing attention to declining availability of water across western landscapes. However, a knowledge gap in our understanding of ecological drought effects in dryland ecoregions is how watershed conditions (e.g., instream habitat conditions, riparian and upland
+vegetation health) and hydrology (e.g., stream flows, water temperatures and quality) interact to affect the flow of energy from aquatic to terrestrial habitats and vice versa. Our assessment framework will include a fully integrated, social-ecological assessment of drought vulnerability within watersheds in the Great Basin and Western U.S. Such an assessment is designed with the specific intent of informing drought adaptation actions in the face of increasing concerns over drought and climate change. The project is a collaboration of researchers across **USGS** including the **Cooperative Research Units**, **Northern Rocky Mountain Science Center**, and **Forest and Rangeland Ecosystem Science Center**.
 
 <br>
 <hr>
@@ -111,8 +94,6 @@ Climate variability and persistent drought have focused attention on declining w
 **Dr. Brian Folt (co-PI)** <br>
 **Dr. Jeff Falke (co-PI)** <br>
 **Dr. Nathan Jackson (Post-doctoral Researcher)**
-
-**Funding: U.S. Geological Survey, Ecosystems Mission Area; Nevada Department of Wildlife**
 
 <img src="images/mule_deer.jpg" style="width:40%; border:2px solid; margin-right: 15px" align="left">
 
@@ -126,8 +107,6 @@ Large-scale land-use changes threaten to fragment habitats and disrupt seasonal 
 **Dr. Jeff Falke (PI)** <br>
 **Eddy Kapp (MS Student; NRES)**
 
-**Funding: Nevada Department of Wildlife**
-
 <img src="images/WCS_mountain.jpg" style="width:20%; border:2px solid; margin-right: 15px" align="right">
 
 Formally described in 2025, the Wall Canyon Sucker (Catostomus murivallis) is a highly endemic fish species native to Nevada. Its known distribution is limited to roughly a 24-kilometer section of stream in Washoe County, Nevada. The watershed is managed both for sport fishing opportunities and for the conservation of the Wall Canyon Sucker. This study aims to characterize the spawning behavior and early life history dynamics of the species. Specifically, we will identify environmental cues associated with spawning and determine the preferred habitat of larval fish. Growth rates and hatching dates will be assessed using otolith analysis. Additionally, we will evaluate fish community dynamics within the system. Diet samples will be collected from sport fish to quantify feeding habits, and stable isotope analysis will be used to assess food web structure. The project is a collaboration of researchers including **U.S. Geological Survey**, **Nevada Cooperative Fish and Wildlife Research Unit**, **University of Nevada, Reno**, and the **Nevada Department of Wildlife**.
@@ -139,8 +118,6 @@ Formally described in 2025, the Wall Canyon Sucker (Catostomus murivallis) is a 
 [**Project Personnel**]{.ul}<br>
 **Dr. Jeff Falke (co-PI)** <br>
 **Rebecca Shaftel (PhD Candidate [University of Alaksa Fairbanks])**
-
-**Funding: U.S. Geological Survey, Alaska Climate Adaptation Science Center; U.S. Fish and Wildlife Service**
 
 <img src="images/y_k-map.jpg" style="width:30%; border:2px solid; margin-right: 15px" align="left">
 

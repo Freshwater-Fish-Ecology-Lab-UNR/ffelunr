@@ -61,7 +61,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 <img src="images/Elizabeth_grayling.jpg" style="width:10%; border:2px solid; margin-right: 20px" align="left">
 
-**Dr. Elizabeth Hinkle** (PhD 2025) Post-fire riverscapes: exploring the ecological and behavioral responses of stream communities to wildfire in boreal streams. Current position:
+**Dr. Elizabeth Hinkle** (PhD 2025) Post-fire riverscapes: exploring the ecological and behavioral responses of stream communities to wildfire in boreal streams. Current position: Fisheries Manager, Qawalangin Tribe of Unalaska
 
 <br>
 <br>
@@ -82,7 +82,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 <img src="images/kevin_fitz.jpg" style="width:15%; border:2px solid; margin-right: 20px" align="left">
 
-**Kevin Fitzgerald** (MS 2023) Environmental controls on foraging and growth of juvenile salmonids in a southeast Alaska watershed. Current position: Research Biologist, U.S. Forest Service, Pacific Northwest Research Laboratory, Juneau, Alaska
+**Kevin Fitzgerald** (MS 2023) Environmental controls on foraging and growth of juvenile salmonids in a southeast Alaska watershed. Current position: Applied River Sciences
 
 <br>
 
@@ -162,7 +162,17 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 <br>
 <br>
+<br>
 
+### <u>**Staff**</u>
+**Mark Kolwyck, Freshwater Fisheries Specialist** (UNR; 2024-2026)
+
+### <u>Student Assistants</u>
+**Montana Strozzi, Student Fisheries Lab Assistant** (UNR; 2025-2026)
+
+**Nate Boyd, Student Fisheries Technician** (UNR; 2025-2026)
+
+<br>
 
 <!-- Simple Dark Blue Footer -->
 <div class="footer">

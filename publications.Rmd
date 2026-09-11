@@ -57,12 +57,22 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px;}
 
 Below are peer-reviewed publications, data releases, and code releases authored by Jeff Falke and Freshwater Fish Ecology Lab members (**in bold**) ordered by year. Reprints are available by request.
 <hr>
-### <u>2025</u>
-**Shaftel, R.**, M. L. Feddern, S. A. McAfee, E. R. Schoen, C. Cunningham, V. R. von Biela, J. Paul, Y. Cheng, A. Newman, M. Perdue, J. Schwenk, A. von Finster, and **J. A. Falke**. *In press*. Integrating climate data and river modeling to reveal Chinook salmon habitat conditions in Sub-Arctic river basins. *Ecosphere*.
+### <u>2026</u>
 
+Grabowski TB, Y Tsang, D Bartz, C Yap, **J Falke**, JR Bellmore, & J Fellman. 2026. Flow ecology of invasive suckermouth catfish in urbanized ridge-to-reef systems on O’ahu, Hawai’i. Frontiers in Environmental Science 14:1754403. [DOI](https://doi.org/10.3389/fenvs.2026.1754403)
+
+**Delbecq, C.**, Fellman, J.B., Bellmore, R.J., Whitney, E., **Fitzgerald, K.**, and **J.A. Falke**. 2026. Season and antecedent conditions impact concentration-discharge relationships for dissolved organic carbon and alkalinity in a Southeast Alaskan watershed. Journal of Geophysical Research: Biogeosciences, 131,e2025JG009090. [DOI](https://doi.org/10.1029/2025JG009090)
+
+Rich, B., Sepulveda, A., Rinella, D., **Falke, J.**, Schoen, E., and P. Westley. 2026. Warming causes modest increase in the consumptive demands of invasive Northern Pike (Esox lucius) in Alaska freshwaters. Biological Invasions (2026) 28:55. [DOI](https://doi.org/10.1007/s10530-025-03746-7)
+
+**Shaftel, R.**, M. L. Feddern, S. A. McAfee, E. R. Schoen, C. Cunningham, V. R. von Biela, J. Paul, Y. Cheng, A. Newman, M. Perdue, J. Schwenk, A. von Finster, and **J. A. Falke**. 2026. Integrating climate data and river modeling to reveal Chinook salmon habitat conditions in Sub-Arctic river basins. *Ecosphere* 17:e70399 [DOI](https://doi.org/10.1002/ecs2.70399)
+
+### <u>2025</u>
 <img src="images/strohm.JPG" style="width:20%; border:1px solid; margin-left: 15px" align="right">
 <br>
 **Strohm, D.D.**, **Sergeant, C.J.**, **Paul, J.D.**, and **J.A. Falke**. 2025. Streamflow regime characterization in the changing boreal ecosystem: wildfire impacts from stream-to-regional scales. *Science of the Total Environment* 991 (2025) 179770 [DOI](https://doi.org/10.1016/j.scitotenv.2025.179770)
+
+**Cathcart, C. N.**, **J. A. Falke**, J. Fox, R. Henszey, and K. Lininger. 2025. Multiscale processes drive formation of logjam habitats and use by juvenile Chinook salmon across a boreal stream network in Alaska. *River Research and Applications*. [DOI](https://doi.org/10.1002/rra.4387)
 
 ### <u>2024</u>
 
@@ -73,8 +83,6 @@ Below are peer-reviewed publications, data releases, and code releases authored 
 **Fitzgerald, K. A.**, J. R. Bellmore, J. B. Fellman, M. L. H. Cheng, N. Boyles-Muehleck, **C. E. Delbecq**, and **J. A. Falke**. 2024. Juvenile coho salmon growth differences track biennial pink salmon spawning patterns. *Freshwater Biology*. [DOI](https://doi.org/10.1111/fwb.14328)
 
 **Delbecq, C.**, J. B. Fellman, J. R. Bellmore, E. J. Whitney, E. Hood, **K. Fitzgerald**, and **J. A. Falke**. 2024. Seasonal patterns in riverine carbon form and export from a temperate forested watershed in Southeast Alaska. *Biogeochemistry*. [DOI](https://doi.org/10.1007/s10533-024-01175-7)
-
-**Cathcart, C. N.**, **J. A. Falke**, J. Fox, R. Henszey, and K. Lininger. 2024. Multiscale processes drive formation of logjam habitats and use by juvenile Chinook salmon across a boreal stream network in Alaska. *River Research and Applications*. [DOI](https://doi.org/10.1002/rra.4387)
 
 **Fitzgerald, K.A.**, and **Falke, J.** 2024. Juvenile coho salmon growth differences track biennial pink salmon spawning patterns: U.S. Geological Survey data release, ScienceBase [DOI](https://doi.org/10.5066/P1PWJM7G)
 
