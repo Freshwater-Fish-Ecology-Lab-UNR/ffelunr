@@ -2,6 +2,7 @@
 output:
   html_document:
     theme: yeti
+pagetitle: "Current Research | Freshwater Fish Ecology Lab"
 ---
 
 <style type="text/css">
@@ -102,6 +103,21 @@ Monitoring for population status and trends is a critical component to successfu
 Climate variability and persistent drought have focused attention on declining water availability across western U.S. riverscapes. Although meteorological drought indicators are well established, relationships between climate and ecosystem responses are less recognized and need to reflect multiple drought "flavors" and complex mediating processes. A better understanding of drought sensitivity in an ecological context (i.e., how ecosystems change in response to water deficits) will provide essential information for adaptation planning and management. We are developing a prototype watershed drought vulnerability assessment using a combination of remotely-sensed observations and results from recent modeling efforts by compiling spatially-explicit time series representing meteorological indicators, hydrologic responses (streamflow and permanence, soil moisture, spring zones), soil moisture, and vegetation productivity (upland, riparian) and summarized interannual variability through time. We are assessing sensitivity by examining variability within and among components, testing spatial patterns across landform classifications, and evaluating temporal trends. Our next steps include expanding to additional watersheds that represent gradients in ecological condition and landscape intactness, developing integrated indicators through data reduction, and constructing relational models, probabilistic networks, and tools for adaptation planning. Ultimately, we hope to provide an understanding of drought sensitivity that incorporates social and ecological elements to inform broad- to local-scale decisions and facilitate identification of watersheds and landscape positions most sensitive to drought. The project is a collaboration of researchers across **USGS** including the **Cooperative Research Units**, **Northern Rocky Mountain Science Center**, and **Forest and Rangeland Ecosystem Science Center**.
 
 <br>
+<hr>
+
+### **Connecting Streams and Landscapes: Drivers and Characteristics of Aquatic–Terrestrial Subsidies in the Great Basin**
+
+<br>
+[**Project Personnel**]{.ul}<br>
+**Dr. Jeff Falke (PI)** <br>
+**Christopher Frazier (PhD Student; EECB)**
+
+**Funding: U.S. Geological Survey, Ecosystems Mission Area**
+
+<img src="images/wall_bugs.jpg" style="width:30%; border:2px solid; margin-right: 15px" align="left">
+
+The Great Basin is extremely arid, which means both that surface waters are scarce and that terrestrial productivity is low. In other arid systems, low terrestrial productivity makes the subsidies streams provide disproportionately important to terrestrial consumers, so understanding these subsidies is a regional priority. Yet the literature on Great Basin stream macroinvertebrates is sparse, and work on aquatic–terrestrial subsidies is effectively absent. In this study, we will synthesize existing macroinvertebrate community data from state, federal, and academic datasets to build the first comprehensive, region-wide database of stream invertebrate composition. Community composition is central to understanding the subsidies these systems provide, but so is knowing how hydrological regime and non-native species shape subsidy characteristics, including subsidy magnitude, timing, and footprint on the surrounding landscape. To that end, we will compare subsidies in habitats with and without historically stocked Brown Trout, and measure subsidy magnitude and terrestrial footprint in streams spanning a gradient from perennial to non-perennial flow. Combining these datasets, we will generate basin-wide estimates of aquatic–terrestrial subsidy magnitude and footprint to determine how much terrestrial habitat in the region is directly subsidized by aquatic systems. This project is a collaborative effort between researchers at the **U.S. Geological Survey** and the **Nevada Cooperative Fish and Wildlife Research Unit at University of Nevada, Reno**.
+
 <hr>
 
 ### **Mapping Ungulate Migrations in Nevada**

@@ -2,6 +2,7 @@
 output:
   html_document:
     theme: yeti
+pagetitle: "Freshwater Fish Ecology Lab | University of Nevada, Reno"
 ---
 
 <style type="text/css">

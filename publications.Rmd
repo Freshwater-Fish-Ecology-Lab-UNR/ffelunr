@@ -2,6 +2,7 @@
 output:
   html_document:
     theme: yeti
+pagetitle: "Publications | Freshwater Fish Ecology Lab"
 ---
 
 <style type="text/css">
@@ -59,6 +60,8 @@ Below are peer-reviewed publications, data releases, and code releases authored 
 <hr>
 ### <u>2026</u>
 
+**Frazier CF**, MH Busch, AT Karlin, JH Thorp. 2026. Insect colonization alters resistant taxa population dynamics but not community composition in ephemeral wetland mesocosms. Hydrobiologia. [DOI](https://doi.org/10.1007/s10750-026-06177-0)
+
 Grabowski TB, Y Tsang, D Bartz, C Yap, **J Falke**, JR Bellmore, & J Fellman. 2026. Flow ecology of invasive suckermouth catfish in urbanized ridge-to-reef systems on O’ahu, Hawai’i. Frontiers in Environmental Science 14:1754403. [DOI](https://doi.org/10.3389/fenvs.2026.1754403)
 
 **Delbecq, C.**, Fellman, J.B., Bellmore, R.J., Whitney, E., **Fitzgerald, K.**, and **J.A. Falke**. 2026. Season and antecedent conditions impact concentration-discharge relationships for dissolved organic carbon and alkalinity in a Southeast Alaskan watershed. Journal of Geophysical Research: Biogeosciences, 131,e2025JG009090. [DOI](https://doi.org/10.1029/2025JG009090)
@@ -73,6 +76,8 @@ Rich, B., Sepulveda, A., Rinella, D., **Falke, J.**, Schoen, E., and P. Westley.
 **Strohm, D.D.**, **Sergeant, C.J.**, **Paul, J.D.**, and **J.A. Falke**. 2025. Streamflow regime characterization in the changing boreal ecosystem: wildfire impacts from stream-to-regional scales. *Science of the Total Environment* 991 (2025) 179770 [DOI](https://doi.org/10.1016/j.scitotenv.2025.179770)
 
 **Cathcart, C. N.**, **J. A. Falke**, J. Fox, R. Henszey, and K. Lininger. 2025. Multiscale processes drive formation of logjam habitats and use by juvenile Chinook salmon across a boreal stream network in Alaska. *River Research and Applications*. [DOI](https://doi.org/10.1002/rra.4387)
+
+**Frazier CF**, CL Brown, M Hamersky, T Coole, M Campobasso, C Thomas, TD Harris. 2025. Water column stability begets metabolism stability. Inland waters 16(1). [DOI](https://doi.org/10.1080/20442041.2025.2602550)
 
 ### <u>2024</u>
 

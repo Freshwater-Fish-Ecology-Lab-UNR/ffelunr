@@ -2,6 +2,7 @@
 output:
   html_document:
     theme: yeti
+pagetitle: "Past Projects | Freshwater Fish Ecology Lab"
 ---
 
 <style type="text/css">
