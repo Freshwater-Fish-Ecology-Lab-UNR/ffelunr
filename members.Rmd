@@ -100,9 +100,10 @@ We continue to build out the lab and are hiring graduate students and scientists
 **Becky Shaftel, PhD Candidate, Fisheries (UAF)** grew up in Anchorage and has been working as a research scientist at the Alaska Center for Conservation Science at UAA since completing her Masters degree in 2010. She received a B.S. in Earth Systems from Stanford University and a M.S. in Biology from Baylor University. Becky started her PhD in the Freshwater Fish Ecology Lab in fall 2021 and will be working to develop models and tools that link Alaska’s changing climate to freshwater habitats that support salmon. Stream temperature optima vary across salmon species and life stages, and may vary across populations, which requires a flexible approach that can capture the range of current and future thermal conditions they may experience. Becky plans to utilize advancements in geospatial stream networks and climate science to model shifting thermal regimes that can be used to understand impacts specific to salmon life stages, which can help inform long-term sustainable management. Becky enjoys hiking, biking, and skiing with her family on the trails in Southcentral Alaska. Email: [rsshaftel@alaska.edu](mailto:rsshaftel@alaska.edu)
 <hr>
 <br>
-<img src="images/brooke.jpg" style="width:10%; border:2px solid; margin-right: 20px" align="left">
+<img src="images/brooke_fish.jpeg" style="width:15%; border:2px solid; margin-right: 20px" align="left">
 
-**Brooke Radow, MS Student, NRES** holds degrees in Biology (A.S., 2021) from the Truckee Meadows Community College and a B.S. in Wildlife Ecology and Conservation (2023) from the University of Nevada Reno. Brooke has worked with state and federal agencies on fisheries and wildlife management, and has interests in fish ecology, riparian systems, and conservation.
+**Brooke Radow, MS Student, NRES** holds an A.S. in Science (2021) from Truckee Meadows Community College and a B.S. in Wildlife Ecology and Conservation (2023) from the University of Nevada, Reno. Brooke has experience working with state and federal agencies in fisheries and wildlife management. Her research now focuses on how environmental change and habitat alteration influence freshwater food webs, thermal and trophic resources, and the energetic landscapes available to fish, with interests in ecological modeling and applied freshwater conservation.
+Email: [brookegoins@unr.edu](mailto:brookegoins@unr.edu)
 <hr>
 <br>
 
