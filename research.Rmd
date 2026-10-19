@@ -8,6 +8,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+pagetitle: "Research | Freshwater Fish Ecology Lab"
 ---
 
 <style type="text/css">
